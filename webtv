@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1,KTLA 5
+https://ktla.com/on-air/live-streaming
+#EXTINF:-1,12 канал (Израиль)
+https://www.mako.co.il/keshethlslive
+#EXTINF:-1,13 канал (Израиль)
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+#EXTINF:-1,2х2
+https://uma.media/video/dcab9b90a33239837c0f71682d6606da/&referer=https://2x2tv.ru/online/
+#EXTINF:-1,Arirang
+http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTARIRANG/variant.m3u8
+#EXTINF:-1,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8$OPT:NO-STIMESHIFT
+#EXTINF:-1,Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1,Beach TV Grand Strand
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
+#EXTINF:-1,Beach TV Mobile
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
+#EXTINF:-1,Beach TV Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
+#EXTINF:-1,Brodilo TV
+http://brodilo.tv/channel.php
+#EXTINF:-1,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1,CBC AZ
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1,Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1,First Music channel
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1,First Music channel HD
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1,FOX 5 Atlanta
+https://www.fox5atlanta.com/live
+#EXTINF:-1,FOX 5 NY
+https://www.fox5ny.com/live
+#EXTINF:-1,Japanet Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1,Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
+#EXTINF:-1,Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1,Luxury World
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,Melody TV
+http://www.melody.tv/en-direct
+#EXTINF:-1,münchen.tv
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1,Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1,NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8$OPT:http-referrer=https://www.nasa.gov/multimedia/nasatv/
+#EXTINF:-1,NASA TV Public
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8$OPT:http-referrer=https://www.nasa.gov/multimedia/nasatv/
+#EXTINF:-1,NBC News NOW
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9264-bcd4-4b33-a78f-afea1ee4a67e&deviceId=181d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=81.0.3729.121&appVersion=2.5.0-f0a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8177&deviceLon=-73.6527&app_name=&appName=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US
+#EXTINF:-1,New Orleans Television
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
+#EXTINF:-1,Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,Nickelodeon (DE)
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8$OPT:http-ext-header=X-Forwarded-For:2.16.10.25
+#EXTINF:-1,NRK 1 (NO)
+https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8$OPT:http-ext-header=X-Forwarded-For:5.249.230.1
+#EXTINF:-1,NRK 2 (NO)
+https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8$OPT:http-ext-header=X-Forwarded-For:5.249.230.1
+#EXTINF:-1,NRK 3 (NO)
+https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8$OPT:http-ext-header=X-Forwarded-For:5.249.230.1
+#EXTINF:-1,NTV News 24 (Japan)
+https://www.news24.jp/livestream/index.m3u8$OPT:http-referrer=https://www.news24.jp/$OPT:NO-STIMESHIFT
+#EXTINF:-1,Ocko TV Expres
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/index.m3u
+#EXTINF:-1,Ocko TV Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/index.m3u
+#EXTINF:-1,Ocko TV Mixer
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/index.m3u
+#EXTINF:-1,One HD
+http://rtmp.one.by:1300
+#EXTINF:-1,OneRUS HD
+http://rtmp.one.by:2300
+#EXTINF:-1,Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,Red Bull HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Russian America TV
+https://stream.russianamerica.tv/ratv/index.m3u8
+#EXTINF:-1,SI LIVE24
+https://www.sportitalia.com/it-int/playerpage/57570
+#EXTINF:-1,SI MOTORI
+https://www.sportitalia.com/it-int/playerpage/57568
+#EXTINF:-1,SI SOLOCALCIO
+https://www.sportitalia.com/it-int/playerpage/57564
+#EXTINF:-1,Silence TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1,Superyacht TV
+https://www.superyacht.tv/en/superyacht-tv-en
+#EXTINF:-1,Yle Teema Fem
+http://yletv-lh.akamaihd.net/i/yleteemafemse_1@490776/index_2764_av-p.m3u8$OPT:http-ext-header=X-Forwarded-For:5.104.87.22
+#EXTINF:-1,Yle TV1
+http://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/index_2764_av-p.m3u8$OPT:http-ext-header=X-Forwarded-For:5.104.87.22
+#EXTINF:-1,Yle TV2
+http://yletv-lh.akamaihd.net/i/yletv2hls_1@103189/index_2764_av-p.m3u8$OPT:http-ext-header=X-Forwarded-For:5.104.87.22
+#EXTINF:-1,Zee News
+https://zeenews.india.com/live-tv
+#EXTINF:-1,Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1,Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1,ЛитКлуб ТВ - Проза
+http://video.platformcraft.ru/hls/rossp/proza720/playlist.m3u8
+#EXTINF:-1,ЛитКлуб ТВ - Слово
+http://video.platformcraft.ru/hls/rossp/slovo720/playlist.m3u8
+#EXTINF:-1,ЛитКлуб ТВ - Стихи
+http://video.platformcraft.ru/hls/rossp/stihi720/playlist.m3u8
+#EXTINF:-1,Матч ТВ
+https://matchtv.ru/on-air
+#EXTINF:-1,Матч!
+https://uma.media/video/e22ac03fd982f961b0b39325861133fb/
+#EXTINF:-1,Матч! Страна
+https://uma.media/play/embed/54e136e9feb7544034daa03ba9aeab0d
+#EXTINF:-1,Министерство Идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1,Новый мир
+https://stream.skyvision.com.ua/nw/nw_576p/playlist.m3u8
+#EXTINF:-1,НТВ
+http://ntv.ru/air
+#EXTINF:-1,НТВ Право
+http://ntv.ru/air/ntvlaw
+#EXTINF:-1,НТВ Сериал
+http://ntv.ru/air/ntvseries
+#EXTINF:-1,НТВ Стиль
+http://ntv.ru/air/ntvstyle
+#EXTINF:-1,ОТР
+https://otr-online.ru
+#EXTINF:-1,Первый канал HD
+https://www.1tv.ru/live
+#EXTINF:-1,Первый канал HD
+https://edge1.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
+#EXTINF:-1,Победа
+http://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8
+#EXTINF:-1,Пятница
+https://uma.media/play/embed/636ffab27c5a4a9cd5f9a40b2e70ea88
+#EXTINF:-1,Ратник ТВ
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1,РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1,РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:-1,Сделано в СССР
+https://vse-tv.net/tv_channel/4-made_in_ussr.html
+#EXTINF:-1,СИЛА
+https://ok.ru/video/958144716536
+#EXTINF:-1,СТВ (Беларусь)
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1,Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1,Театр
+http://telekanalteatr.ru/potokovoe-veshhanie
+#EXTINF:-1,ТНТ
+https://uma.media/video/4e4e37727e07a7124cd7b29f2975e295/
+#EXTINF:-1,ТНТ4
+https://uma.media/video/b0200b6f7a08fb0aad4e1289f491d1ea/
+#EXTINF:-1,Царьград
+https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
+#EXTINF:-1,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1,Эхо TV
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
