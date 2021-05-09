@@ -163,8 +163,6 @@ http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1,РЖД ТВ
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
-#EXTINF:-1,Сделано в СССР
-https://vse-tv.net/tv_channel/4-made_in_ussr.html
 #EXTINF:-1,СИЛА
 https://ok.ru/video/958144716536
 #EXTINF:-1,СТВ (Беларусь)
