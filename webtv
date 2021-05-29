@@ -107,8 +107,6 @@ http://yletv-lh.akamaihd.net/i/yleteemafemse_1@490776/index_2764_av-p.m3u8$OPT:h
 http://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/index_2764_av-p.m3u8$OPT:http-ext-header=X-Forwarded-For:5.104.87.22
 #EXTINF:-1,Yle TV2
 http://yletv-lh.akamaihd.net/i/yletv2hls_1@103189/index_2764_av-p.m3u8$OPT:http-ext-header=X-Forwarded-For:5.104.87.22
-#EXTINF:-1,Zee News
-https://zeenews.india.com/live-tv
 #EXTINF:-1,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1,Известия
