@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Город (Рязань)
+https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R02_GOROD/variant.m3u8
 #EXTINF:-1,Десятка (Новокузнецк)
 https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_DESYATKA/variant.m3u8
 #EXTINF:-1,Омск-ТВ (Омск)
