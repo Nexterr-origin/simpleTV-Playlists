@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,KTLA 5
-https://ktla.com/on-air/live-streaming
 #EXTINF:-1,12 канал (Израиль)
 https://www.mako.co.il/keshethlslive
 #EXTINF:-1,13 канал (Израиль)
@@ -21,10 +19,6 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
 #EXTINF:-1,Brodilo TV
 http://brodilo.tv/channel.php
-#EXTINF:-1,California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-#EXTINF:-1,CBC AZ
-http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
 #EXTINF:-1,Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1,First Music channel
@@ -45,6 +39,8 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
 #EXTINF:-1,Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1,KTLA 5
+https://ktla.com/on-air/live-streaming
 #EXTINF:-1,Luxury World
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,Melody TV
@@ -91,22 +87,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1,Russian America TV
 https://stream.russianamerica.tv/ratv/index.m3u8
-#EXTINF:-1,SI LIVE24
-https://www.sportitalia.com/it-int/playerpage/57570
-#EXTINF:-1,SI MOTORI
-https://www.sportitalia.com/it-int/playerpage/57568
-#EXTINF:-1,SI SOLOCALCIO
-https://www.sportitalia.com/it-int/playerpage/57564
 #EXTINF:-1,Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1,Superyacht TV
 https://www.superyacht.tv/en/superyacht-tv-en
-#EXTINF:-1,Yle Teema Fem
-http://yletv-lh.akamaihd.net/i/yleteemafemse_1@490776/index_2764_av-p.m3u8$OPT:http-ext-header=X-Forwarded-For:5.104.87.22
-#EXTINF:-1,Yle TV1
-http://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/index_2764_av-p.m3u8$OPT:http-ext-header=X-Forwarded-For:5.104.87.22
-#EXTINF:-1,Yle TV2
-http://yletv-lh.akamaihd.net/i/yletv2hls_1@103189/index_2764_av-p.m3u8$OPT:http-ext-header=X-Forwarded-For:5.104.87.22
 #EXTINF:-1,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1,Известия
@@ -145,14 +129,10 @@ http://ntv.ru/air/ntvlaw
 http://ntv.ru/air/ntvseries
 #EXTINF:-1,НТВ Стиль
 http://ntv.ru/air/ntvstyle
-#EXTINF:-1,ОТР
-https://otr-online.ru
 #EXTINF:-1,Первый канал HD
 https://www.1tv.ru/live
 #EXTINF:-1,Первый канал HD
 https://edge1.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
-#EXTINF:-1,Победа
-http://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8
 #EXTINF:-1,Пятница
 https://uma.media/play/embed/636ffab27c5a4a9cd5f9a40b2e70ea88
 #EXTINF:-1,Ратник ТВ
@@ -167,8 +147,6 @@ https://ok.ru/video/958144716536
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
 #EXTINF:-1,Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1,Театр
-http://telekanalteatr.ru/potokovoe-veshhanie
 #EXTINF:-1,ТНТ
 https://uma.media/video/4e4e37727e07a7124cd7b29f2975e295/
 #EXTINF:-1,ТНТ4
