@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,ТВ Поиск (Клин)
+https://poisktv-live.cdnvideo.ru/poisktv/FullHD.smil/playlist.m3u8
 #EXTINF:-1,#ё (Самара)
 https://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8
 #EXTINF:-1,1 КБР (Нальчик)
