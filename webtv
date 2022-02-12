@@ -107,8 +107,6 @@ http://video.platformcraft.ru/hls/rossp/proza720/playlist.m3u8
 http://video.platformcraft.ru/hls/rossp/slovo720/playlist.m3u8
 #EXTINF:-1,ЛитКлуб ТВ - Стихи
 http://video.platformcraft.ru/hls/rossp/stihi720/playlist.m3u8
-#EXTINF:-1,Матч ТВ
-https://matchtv.ru/on-air
 #EXTINF:-1,Матч!
 https://uma.media/video/e22ac03fd982f961b0b39325861133fb/
 #EXTINF:-1,Матч! Страна
