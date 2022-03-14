@@ -55,8 +55,6 @@ https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8$OPT:http-ext-header=
 https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8$OPT:http-ext-header=X-Forwarded-For:5.249.230.1
 #EXTINF:-1,NRK 3 (NO)
 https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8$OPT:http-ext-header=X-Forwarded-For:5.249.230.1
-#EXTINF:-1,NTV News 24 (Japan)
-https://www.news24.jp/livestream/index.m3u8$OPT:http-referrer=https://www.news24.jp/$OPT:NO-STIMESHIFT
 #EXTINF:-1,Ocko TV Expres
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/index.m3u
 #EXTINF:-1,Ocko TV Gold
