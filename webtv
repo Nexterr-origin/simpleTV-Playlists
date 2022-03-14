@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Победа
-https://pobeda.tv/live
-#EXTINF:-1,2х2
-https://uma.media/video/dcab9b90a33239837c0f71682d6606da/&referer=https://2x2tv.ru/online/
 #EXTINF:-1,Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8$OPT:NO-STIMESHIFT
 #EXTINF:-1,Beach TV Grand Strand
@@ -35,16 +31,10 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://ktla.com/on-air/live-streaming
 #EXTINF:-1,Luxury World
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1,Melody TV
-http://www.melody.tv/en-direct
 #EXTINF:-1,münchen.tv
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1,Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1,NASA TV Media
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8$OPT:http-referrer=https://www.nasa.gov/multimedia/nasatv/
-#EXTINF:-1,NASA TV Public
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8$OPT:http-referrer=https://www.nasa.gov/multimedia/nasatv/
 #EXTINF:-1,New Orleans Television
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
 #EXTINF:-1,Nickelodeon (DE)
@@ -113,6 +103,8 @@ http://ntv.ru/air/ntvseries
 http://ntv.ru/air/ntvstyle
 #EXTINF:-1,Первый канал HD
 https://www.1tv.ru/live
+#EXTINF:-1,Победа
+https://pobeda.tv/live
 #EXTINF:-1,Пятница
 https://uma.media/play/embed/636ffab27c5a4a9cd5f9a40b2e70ea88
 #EXTINF:-1,Ратник ТВ
