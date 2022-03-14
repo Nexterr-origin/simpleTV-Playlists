@@ -129,8 +129,6 @@ http://ntv.ru/air/ntvseries
 http://ntv.ru/air/ntvstyle
 #EXTINF:-1,Первый канал HD
 https://www.1tv.ru/live
-#EXTINF:-1,Первый канал HD
-https://edge1.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
 #EXTINF:-1,Пятница
 https://uma.media/play/embed/636ffab27c5a4a9cd5f9a40b2e70ea88
 #EXTINF:-1,Ратник ТВ
