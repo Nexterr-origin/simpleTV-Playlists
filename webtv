@@ -1,18 +1,10 @@
 #EXTM3U
 #EXTINF:-1,Победа
 https://pobeda.tv/live
-#EXTINF:-1,12 канал (Израиль)
-https://www.mako.co.il/keshethlslive
-#EXTINF:-1,13 канал (Израиль)
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 #EXTINF:-1,2х2
 https://uma.media/video/dcab9b90a33239837c0f71682d6606da/&referer=https://2x2tv.ru/online/
-#EXTINF:-1,Arirang
-http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTARIRANG/variant.m3u8
 #EXTINF:-1,Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8$OPT:NO-STIMESHIFT
-#EXTINF:-1,Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1,Beach TV Grand Strand
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
 #EXTINF:-1,Beach TV Mobile
@@ -31,8 +23,6 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 https://www.fox5atlanta.com/live
 #EXTINF:-1,FOX 5 NY
 https://www.fox5ny.com/live
-#EXTINF:-1,Japanet Channel DX
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 #EXTINF:-1,Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1,Jasmin TV
@@ -55,12 +45,8 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8$OPT:http-referrer=https://www.nasa.gov/multimedia/nasatv/
 #EXTINF:-1,NASA TV Public
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8$OPT:http-referrer=https://www.nasa.gov/multimedia/nasatv/
-#EXTINF:-1,NBC News NOW
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9264-bcd4-4b33-a78f-afea1ee4a67e&deviceId=181d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=81.0.3729.121&appVersion=2.5.0-f0a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8177&deviceLon=-73.6527&app_name=&appName=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US
 #EXTINF:-1,New Orleans Television
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
-#EXTINF:-1,Newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1,Nickelodeon (DE)
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8$OPT:http-ext-header=X-Forwarded-For:2.16.10.25
 #EXTINF:-1,NRK 1 (NO)
@@ -88,7 +74,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1,RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1,Russian America TV
-https://stream.russianamerica.tv/ratv/index.m3u8
+https://stream.russianamerica.tv/ratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1,Superyacht TV
