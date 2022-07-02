@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,START Air HD
+#EXTINF:-1,START Air
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
-#EXTINF:-1,START World HD
+#EXTINF:-1,START World
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
 #EXTINF:-1,Первый канал HD
 https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
