@@ -1,20 +1,14 @@
 #EXTM3U
-#EXTINF:-1,10 TV HD
+#EXTINF:-1,10 TV HD Moldova
 http://starnet-md.10TV_H264
-#EXTINF:-1,365 Дней ТВ
-http://starnet-md.365DNEI_HD_H264
-#EXTINF:-1,A7 HD
+#EXTINF:-1,A7TV HD
 http://starnet-md.A7_HD_H264
 #EXTINF:-1,Accent TV
 http://starnet-md.ACCENT_TV_H264
-#EXTINF:-1,Agro TV
-http://starnet-md.AGROTV_H264
 #EXTINF:-1,Agro TV Moldova
 http://starnet-md.AGROTV_H264
 #EXTINF:-1,Alfa Omega TV
 http://starnet-md.ALFA_OMEGA_H264
-#EXTINF:-1,Animal Planet
-http://starnet-md.ANIMAL_PLANET_H264
 #EXTINF:-1,Animal Planet HD
 http://starnet-md.ANIMAL_PLANETHD_H264&tshift=true
 #EXTINF:-1,ATV Gagauzia
@@ -25,87 +19,37 @@ http://starnet-md.AXIALTV_H264
 http://starnet-md.B1_TV_H264
 #EXTINF:-1,Barely Legal
 http://starnet-md.BARELY_LEGAL_H264
-#EXTINF:-1,BBC World News Europe HD
+#EXTINF:-1,BBC World News Europe
 http://starnet-md.BBCWORLDNEWSEUROPE_HD_H264
-#EXTINF:-1,Blue Hustler
-http://starnet-md.HUSTLER_TV_H264
-#EXTINF:-1,BOLT HD
+#EXTINF:-1,Bolt HD
 http://starnet-md.BOLT_H264
 #EXTINF:-1,Boomerang
 http://starnet-md.BOOMERANGTV_H264&tshift=true
-#EXTINF:-1,BTV HD
+#EXTINF:-1,BTV HD Moldova
 http://starnet-md.BTV_H264&tshift=true
-#EXTINF:-1,Bucuresti TV HD
+#EXTINF:-1,Bucuresti TV
 http://starnet-md.BUCURESTITV_HD_H264
 #EXTINF:-1,Busuioc TV
 http://starnet-md.BUSUIOCTV_H264
-#EXTINF:-1,Canal 2 HD
+#EXTINF:-1,Canal 2 HD Moldova
 http://starnet-md.CANAL2_H264&tshift=true
-#EXTINF:-1,Canal 3 HD
+#EXTINF:-1,Canal 3 HD Moldova
 http://starnet-md.CANAL3_H264&tshift=true
-#EXTINF:-1,Canal 5
+#EXTINF:-1,Canal 5 Moldova
 http://starnet-md.CANAL_5_H264
 #EXTINF:-1,Canal Regional
 http://starnet-md.REGIONALTV_H264
-#EXTINF:-1,Cartoon Network
-http://starnet-md.CARTOON_NETWORKRU_H264&tshift=true
 #EXTINF:-1,Cartoon Network RO
 http://starnet-md.CARTOON_NETWORKRO_H264&tshift=true
+#EXTINF:-1,Cartoon Network RU
+http://starnet-md.CARTOON_NETWORKRU_H264&tshift=true
 #EXTINF:-1,CBS Reality
 http://starnet-md.CBS_REALITY_H264&tshift=true
 #EXTINF:-1,Cinema
 http://starnet-md.CINEMA_H264
-#EXTINF:-1,Cinema 1
+#EXTINF:-1,Cinema 1 Moldova
 http://starnet-md.CINEMA1_H264
-#EXTINF:-1,Clasa 1 RO
-http://starnet-md.CLASA1_RO_H264
-#EXTINF:-1,Clasa 1 RU
-http://starnet-md.CLASA1_RU_H264
-#EXTINF:-1,Clasa 10 RO
-http://starnet-md.CLASA10_RO_H264
-#EXTINF:-1,Clasa 10 RU
-http://starnet-md.CLASA10_RU_H264
-#EXTINF:-1,Clasa 11 RO
-http://starnet-md.CLASA11_RO_H264
-#EXTINF:-1,Clasa 11 RU
-http://starnet-md.CLASA11_RU_H264
-#EXTINF:-1,Clasa 12 RO
-http://starnet-md.CLASA12_RO_H264
-#EXTINF:-1,Clasa 12 RU
-http://starnet-md.CLASA12_RU_H264
-#EXTINF:-1,Clasa 2 RO
-http://starnet-md.CLASA2_RO_H264
-#EXTINF:-1,Clasa 2 RU
-http://starnet-md.CLASA2_RU_H264
-#EXTINF:-1,Clasa 3 RO
-http://starnet-md.CLASA3_RO_H264
-#EXTINF:-1,Clasa 3 RU
-http://starnet-md.CLASA3_RU_H264
-#EXTINF:-1,Clasa 4 RO
-http://starnet-md.CLASA4_RO_H264
-#EXTINF:-1,Clasa 4 RU
-http://starnet-md.CLASA4_RU_H264
-#EXTINF:-1,Clasa 5 RO
-http://starnet-md.CLASA5_RO_H264
-#EXTINF:-1,Clasa 5 RU
-http://starnet-md.CLASA5_RU_H264
-#EXTINF:-1,Clasa 6 RO
-http://starnet-md.CLASA6_RO_H264
-#EXTINF:-1,Clasa 6 RU
-http://starnet-md.CLASA6_RU_H264
-#EXTINF:-1,Clasa 7 RO
-http://starnet-md.CLASA7_RO_H264
-#EXTINF:-1,Clasa 7 RU
-http://starnet-md.CLASA7_RU_H264
-#EXTINF:-1,Clasa 8 RO
-http://starnet-md.CLASA8_RO_H264
-#EXTINF:-1,Clasa 8 RU
-http://starnet-md.CLASA8_RU_H264
-#EXTINF:-1,Clasa 9 RO
-http://starnet-md.CLASA9_RO_H264
-#EXTINF:-1,Clasa 9 RU
-http://starnet-md.CLASA9_RU_H264
-#EXTINF:-1,CNL
+#EXTINF:-1,CNL Европа
 http://starnet-md.CNL_H264
 #EXTINF:-1,CNN
 http://starnet-md.CNN_H264
@@ -113,46 +57,42 @@ http://starnet-md.CNN_H264
 http://starnet-md.COTIDIANUL_TV_H264
 #EXTINF:-1,CTC Mega
 http://starnet-md.CTCMEGA_H264
-#EXTINF:-1,Da Vinci Learning
+#EXTINF:-1,Da Vinci Learning Россия
 http://starnet-md.DAVINCI_LEARNING_H264
-#EXTINF:-1,Deutsche Welle
-http://starnet-md.DW_H264
-#EXTINF:-1,Deutsche Welle DE
+#EXTINF:-1,Deutsche Welle Deutsch
 http://starnet-md.DE_DW_H264
-#EXTINF:-1,Digi 24
+#EXTINF:-1,Deutsche Welle Europe
+http://starnet-md.DW_H264
+#EXTINF:-1,DIGI24
 http://starnet-md.DIGI_24_H264
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1,Discovery EE
 http://starnet-md.DISCOVERY_CHANNEL_H264&tshift=true
-#EXTINF:-1,Discovery Science
-http://starnet-md.DISCOVERY_SCIENCE_H264
 #EXTINF:-1,Discovery Science HD
 http://starnet-md.DISCOVERY_SCIENCEHD_H264&tshift=true
-#EXTINF:-1,Disney
+#EXTINF:-1,Disney Channel RO
 http://starnet-md.DISNEY_CHANNELRO_H264&tshift=true
+#EXTINF:-1,Disney Junior
+http://starnet-md.DISNEY_JUNIOR_H264&tshift=true
 #EXTINF:-1,Disney Junior
 http://starnet-md.DISNEY_JUNIOR_H264
 #EXTINF:-1,Drochia TV
 http://starnet-md.DROCHIATV_H264
-#EXTINF:-1,DTV
+#EXTINF:-1,DTV Moldova
 http://starnet-md.DTV_H264
+#EXTINF:-1,DTX HD
+http://starnet-md.DTX_H264
 #EXTINF:-1,Duck TV
-http://starnet-md.DUCKTVHD_H264
-#EXTINF:-1,Duck TV HD
 http://starnet-md.DUCKTVHD_H264
 #EXTINF:-1,Elita TV
 http://starnet-md.ELITA_H264
 #EXTINF:-1,Etno TV
 http://starnet-md.ETNOTV_H264
-#EXTINF:-1,EuroNews
+#EXTINF:-1,Euronews
 http://starnet-md.EURONEWS_H264
 #EXTINF:-1,Europa Plus TV
 http://starnet-md.EUROPA_PLUS_H264
 #EXTINF:-1,Eurosport 1 HD
 http://starnet-md.ESPHD_H264
-#EXTINF:-1,Eurosport 1 HD RO
-http://starnet-md.EUROSPORT1RO_H264
-#EXTINF:-1,Eurosport 2
-http://starnet-md.EUROSPORT2_H264
 #EXTINF:-1,Eurosport 2 HD
 http://starnet-md.EUROSPORT2HD_H264&tshift=true
 #EXTINF:-1,Familia Domashniy
@@ -161,42 +101,42 @@ http://starnet-md.FAMILIA_DOMASHNII_H264
 http://starnet-md.FASHIONTV_HD_H264
 #EXTINF:-1,Favorit TV
 http://starnet-md.FAVORITTV_H264
-#EXTINF:-1,FilmuaDrama
+#EXTINF:-1,Film.Ua Drama
 http://starnet-md.FILMUA_DRAMA_H264
 #EXTINF:-1,Food Network HD
 http://starnet-md.FOODNETWORK_HD_H264
-#EXTINF:-1,France 24 EN
+#EXTINF:-1,France 24 English
 http://starnet-md.FRANCE_24ENG_H264
-#EXTINF:-1,France 24 FR
+#EXTINF:-1,France 24 Francais
 http://starnet-md.FRANCE_24FR_H264
-#EXTINF:-1,GRT
+#EXTINF:-1,GRT Moldova
 http://starnet-md.GRT_H264
 #EXTINF:-1,Gurinel TV HD
-http://starnet-md.GURINELTV_H264
-#EXTINF:-1,HD Life
+http://starnet-md.GURINELTV_H264&tshift=true
+#EXTINF:-1,HDL HD
 http://starnet-md.HD_LIFE_H264
-#EXTINF:-1,Hustler HD Europe
+#EXTINF:-1,Hustler HD
 http://starnet-md.HUSTLERTV_HD_H264
+#EXTINF:-1,Hustler TV
+http://starnet-md.HUSTLER_TV_H264
 #EXTINF:-1,ID Xtra HD
 http://starnet-md.IDXTRA_HD_H264&tshift=true
-#EXTINF:-1,Investigation Discovery
-http://starnet-md.INVESTIGATION_DISCOVERY_H264
 #EXTINF:-1,ITV Moldova
 http://starnet-md.ITV_H264
+#EXTINF:-1,Iнтер+
+http://starnet-md.INTERPLUS_H264
 #EXTINF:-1,Jurnal TV HD
-http://starnet-md.JURNALTV_H264
+http://starnet-md.JURNALTV_H264&tshift=true
 #EXTINF:-1,Kanal D
 http://starnet-md.KANALD_H264
-#EXTINF:-1,Kvartal TV
-http://starnet-md.KVARTALTV_H264&tshift=true
 #EXTINF:-1,M-1 Global
 http://starnet-md.M_1GLOBAL_H264
-#EXTINF:-1,Media TV (Cimişlia)
+#EXTINF:-1,Media TV
 http://starnet-md.MEDIATV_H264
 #EXTINF:-1,Minimax
-http://starnet-md.MINIMAX_H264
+http://starnet-md.MINIMAX_H264&tshift=true
 #EXTINF:-1,Moldova 1 HD
-http://starnet-md.MOLDOVA1_H264
+http://starnet-md.MOLDOVA1_H264&tshift=true
 #EXTINF:-1,Moldova 2
 http://starnet-md.MOLDOVA2_H264
 #EXTINF:-1,MTV 80s
@@ -207,11 +147,11 @@ http://starnet-md.MTV90_H264
 http://starnet-md.MTV_RUSSIA_H264
 #EXTINF:-1,N4
 http://starnet-md.N4_H264&tshift=true
-#EXTINF:-1,Național 24 Plus
+#EXTINF:-1,National 24 Plus
 http://starnet-md.NATIONAL24_PLUS_H264
-#EXTINF:-1,Național TV
+#EXTINF:-1,National TV
 http://starnet-md.NATIONALTV_H264
-#EXTINF:-1,Nick Jr
+#EXTINF:-1,Nick Jr.
 http://starnet-md.NICK_JR_H264
 #EXTINF:-1,Nickelodeon HD
 http://starnet-md.NICKELODEON_HD_H264&tshift=true
@@ -223,74 +163,82 @@ http://starnet-md.NICKTOONS_H264
 http://starnet-md.NOROCTV_H264
 #EXTINF:-1,NTS
 http://starnet-md.NTS_H264
+#EXTINF:-1,NTV Moldova
+http://starnet-md.NTV_MOLDOVA_H264&tshift=true
 #EXTINF:-1,Orhei TV HD
 http://starnet-md.ORHEITV_H264
 #EXTINF:-1,Orizont TV
 http://starnet-md.ORIZONT_TV_H264
-#EXTINF:-1,Paprika TV
-http://starnet-md.PAPRIKATV_H264
-#EXTINF:-1,Paramount Comedy Russia
+#EXTINF:-1,Paramount Comedy
 http://starnet-md.PARAMOUNT_COMEDY_H264
+#EXTINF:-1,Party Mix HD
+http://starnet-md.PARTY_MIXHD_H264
 #EXTINF:-1,Popas TV
 http://starnet-md.POPASTV_H264
 #EXTINF:-1,Prime HD
-http://starnet-md.PRIMEHD_H264
+http://starnet-md.PRIMEHD_H264&tshift=true
+#EXTINF:-1,Primul in Moldova
+http://starnet-md.PRIMULIN_MOLDOVA_H264&tshift=true
 #EXTINF:-1,Primul în Moldova
 http://starnet-md.PRIMULIN_MOLDOVA_H264
-#EXTINF:-1,Private HD
+#EXTINF:-1,Private TV HD
 http://starnet-md.PRIVATETV_HD_H264
-#EXTINF:-1,PRO 2
+#EXTINF:-1,Pro 2
 http://starnet-md.PRO2_H264
-#EXTINF:-1,PRO Gold
-http://starnet-md.ACASA_GOLD_H264
+#EXTINF:-1,Pro Gold
+http://starnet-md.PRO_GOLD_H264
+#EXTINF:-1,Pro TV Chisinau HD
+http://starnet-md.PROTV_CHISINAU_H264&tshift=true
 #EXTINF:-1,Pro TV Moldova HD
 http://starnet-md.PROTV_CHISINAU_H264
 #EXTINF:-1,Publika TV HD
 http://starnet-md.PUBLIKATV_H264
-#EXTINF:-1,Q Sport International HD
+#EXTINF:-1,Q Sport HD
 http://starnet-md.QSPORT_H264
-#EXTINF:-1,Realitatea LIVE
+#EXTINF:-1,R Live TV
 http://starnet-md.REALITATEA_LIVE_H264
 #EXTINF:-1,Redlight HD
 http://starnet-md.REDLIGHT_HD_H264
+#EXTINF:-1,REN Moldova
+http://starnet-md.RENTV_MOLDOVA_H264&tshift=true
 #EXTINF:-1,Romania TV
 http://starnet-md.ROMANIA_TV_H264
-#EXTINF:-1,RTVi
-http://starnet-md.RTVI_EUROPE_H264
-#EXTINF:-1,RU TV Moldova
+#EXTINF:-1,RTR Moldova HD
+http://starnet-md.RTR_MOLDOVA_H264&tshift=true
+#EXTINF:-1,RU.TV Moldova
 http://starnet-md.RUTV_MOLDOVA_H264
-#EXTINF:-1,Setanta Sports 1 HD
+#EXTINF:-1,Setanta Sports 1
 http://starnet-md.SETANTA_HD_H264
-#EXTINF:-1,Setanta Sports 2 HD
+#EXTINF:-1,Setanta Sports 2
 http://starnet-md.SETANTAPLUS_HD_H264
-#EXTINF:-1,Setanta Sports Ukraine HD
+#EXTINF:-1,Setanta Sports Ukraine
 http://starnet-md.SETANTASPORTS_HD_H264
 #EXTINF:-1,Sor TV
 http://starnet-md.SORTV_H264
 #EXTINF:-1,Speranta TV
 http://starnet-md.SPRETANTATV_H264
-#EXTINF:-1,Star Cinema HD UA
+#EXTINF:-1,Star Cinema Украина HD
 http://starnet-md.STARCINEMA_HD_H264
-#EXTINF:-1,Star Family HD UA
+#EXTINF:-1,Star Family HD
 http://starnet-md.STARFAMILY_HD_H264
-#EXTINF:-1,STV HD
+#EXTINF:-1,STV HD Комрат
 http://starnet-md.STV_HD_H264
 #EXTINF:-1,Taraf TV
 http://starnet-md.TARAFTV_H264
-#EXTINF:-1,Televiziunea Centrala HD
-http://starnet-md.TELEVIZIUNEACENTRALA_H264
-#EXTINF:-1,Tezaur TV
+#EXTINF:-1,Tezaur Folc TV
 http://starnet-md.TEZAUR_TV_H264
-#EXTINF:-1,THT Music
-http://starnet-md.TNT_MUSIC_H264
 #EXTINF:-1,TLC
 http://starnet-md.DISCOVERY_TLC_H264&tshift=true
 #EXTINF:-1,Travel Channel HD
 http://starnet-md.TRAVELCHANNEL_HD_H264
-#EXTINF:-1,TRAVEL MIX HD
+#EXTINF:-1,Travel Mix HD
 http://starnet-md.TRAVELMIX_HD_H264
 #EXTINF:-1,Trinitas TV
 http://starnet-md.TRINITASTV_H264
+#EXTINF:-1,TV Paprika
+http://starnet-md.PAPRIKATV_H264
+#EXTINF:-1,TV Prim (Glodeni)
+http://starnet-md.PRIMTV_H264&tshift=true
 #EXTINF:-1,TV Prim Glodeni
 http://starnet-md.PRIMTV_H264
 #EXTINF:-1,TV1000 Action HD
@@ -299,20 +247,22 @@ http://starnet-md.TV1000ACTION_HD_H264&tshift=true
 http://starnet-md.TV1000_HD_H264&tshift=true
 #EXTINF:-1,TV1000 Русское кино HD
 http://starnet-md.TV1000RU_HD_H264&tshift=true
-#EXTINF:-1,TV5 Monde Europe
+#EXTINF:-1,TV5 Monde
 http://starnet-md.TV5_MONDEEUROPE_H264
-#EXTINF:-1,TV8 HD
+#EXTINF:-1,TV8 HD Moldova
 http://starnet-md.TV8_H264&tshift=true
 #EXTINF:-1,TVC 21
 http://starnet-md.TVC21_H264&tshift=true
 #EXTINF:-1,TVR Moldova
+http://starnet-md.TVR_H264&tshift=true
+#EXTINF:-1,TVR Moldova
 http://starnet-md.TVR_H264
 #EXTINF:-1,TНТ Exclusiv TV
 http://starnet-md.TNT_EXCLUSIV_H264
-#EXTINF:-1,UA TV
-http://starnet-md.UATV_HD_H264
-#EXTINF:-1,UTV Romania
+#EXTINF:-1,U TV Romania
 http://starnet-md.UTV_H264
+#EXTINF:-1,UATV
+http://starnet-md.UATV_HD_H264
 #EXTINF:-1,Viasat Explore HD
 http://starnet-md.VIASATEXPLORE_HD_H264
 #EXTINF:-1,Viasat History HD
@@ -323,15 +273,15 @@ http://starnet-md.VIASATNATURE_HD_H264
 http://starnet-md.VIASAT_NATHISTORYHD_H264
 #EXTINF:-1,Viasat Sport HD
 http://starnet-md.VIASAT_SPORTHD_H264
-#EXTINF:-1,VIP Comedy HD
+#EXTINF:-1,ViP Comedy HD
 http://starnet-md.VIP_COMEDYHD_H264&tshift=true
-#EXTINF:-1,VIP Megahit HD
+#EXTINF:-1,ViP Megahit HD
 http://starnet-md.VIP_MEGAHITHD_H264&tshift=true
-#EXTINF:-1,VIP Premiere HD
+#EXTINF:-1,ViP Premiere HD
 http://starnet-md.VIP_PREMIERHD_H264&tshift=true
-#EXTINF:-1,VIP Serial HD
+#EXTINF:-1,ViP Serial HD
 http://starnet-md.VIP_SERIALHD_H264&tshift=true
-#EXTINF:-1,Vocea Basarabiei HD
+#EXTINF:-1,Vocea Basarabiei TV HD
 http://starnet-md.VOCEA_BASARABIEI_H264
 #EXTINF:-1,Zee TV
 http://starnet-md.ZEETV_H264
@@ -339,39 +289,29 @@ http://starnet-md.ZEETV_H264
 http://starnet-md.ZONAM_H264
 #EXTINF:-1,Авто Плюс
 http://starnet-md.AVTO_PLUS_H264
-#EXTINF:-1,Беларусь 24
-http://starnet-md.BELARUSI_24_H264
 #EXTINF:-1,Бобёр
 http://starnet-md.BOBIOR_H264
-#EXTINF:-1,В мире животных
+#EXTINF:-1,В мире животных HD
 http://starnet-md.VMIRE_JIVOTNIH_H264
-#EXTINF:-1,Время
-http://starnet-md.VREMEA_H264
 #EXTINF:-1,Дикая охота HD
 http://starnet-md.DIKAYAOHOTA_H264
 #EXTINF:-1,Дикая рыбалка HD
 http://starnet-md.DIKAYARIBALKA_H264
 #EXTINF:-1,Дикий
 http://starnet-md.DIKYI_H264
-#EXTINF:-1,Дом Кино
-http://starnet-md.DOM_KINO_H264&tshift=true
-#EXTINF:-1,Дом Кино Премиум HD
-http://starnet-md.DOMKINO_PREMIIUMHD_H264&tshift=true
 #EXTINF:-1,Драйв
 http://starnet-md.DRAIV_H264
-#EXTINF:-1,Живая Планета
-http://starnet-md.JIVAEA_PLANETA_H264
 #EXTINF:-1,Живи!
 http://starnet-md.JIVI_H264
-#EXTINF:-1,Здоровье
+#EXTINF:-1,Здоровое ТВ
 http://starnet-md.ZDOROVOYE_TV_H264
-#EXTINF:-1,Интер+
-http://starnet-md.INTERPLUS_H264
 #EXTINF:-1,Капитан Фантастика HD
 http://starnet-md.KAPITAN_FANTASTIKA_HD_H264
 #EXTINF:-1,Карусель
 http://starnet-md.KARUSELI_H264
-#EXTINF:-1,КВН TV
+#EXTINF:-1,Квартал ТВ
+http://starnet-md.KVARTALTV_H264&tshift=true
+#EXTINF:-1,КВН ТВ
 http://starnet-md.KVN_TV_H264
 #EXTINF:-1,Кино ТВ HD
 http://starnet-md.KINOTV_HD_H264&tshift=true
@@ -391,28 +331,16 @@ http://starnet-md.KINOSERYA_H264&tshift=true
 http://starnet-md.KINOHIT_H264&tshift=true
 #EXTINF:-1,Кухня ТВ
 http://starnet-md.KUHNEATV_H264
-#EXTINF:-1,Ля Минор
+#EXTINF:-1,Ля-минор
 http://starnet-md.LEA_MINOR_H264
-#EXTINF:-1,Малыш
-http://starnet-md.MALISH_H264
 #EXTINF:-1,Матч! Планета
 http://starnet-md.MATCH_PLANETA_H264
-#EXTINF:-1,МИР
-http://starnet-md.MIR_H264
-#EXTINF:-1,МИР 24
-http://starnet-md.MIR24_H264
-#EXTINF:-1,Мир HD
-http://starnet-md.MIR_HD_H264
-#EXTINF:-1,Планета HD
-http://starnet-md.MOYA_PLANETA_H264
-#EXTINF:-1,Мужское Кино
+#EXTINF:-1,Мужское кино
 http://starnet-md.MUJSKOE_KINO_H264&tshift=true
 #EXTINF:-1,Мульт
 http://starnet-md.MULIT_H264
-#EXTINF:-1,Настоящее Время
+#EXTINF:-1,Настоящее время
 http://starnet-md.NASTOIASHIE_VREMEA_H264
-#EXTINF:-1,Наука HD
-http://starnet-md.NAUKA2_H264
 #EXTINF:-1,Наша Сибирь HD
 http://starnet-md.NASHASYBYRI_H264
 #EXTINF:-1,Наше Новое Кино
@@ -423,7 +351,7 @@ http://starnet-md.NOSTALIGYA_H264
 http://starnet-md.NTV_MOLDOVA_H264
 #EXTINF:-1,Охота и рыбалка
 http://starnet-md.OKHOTAIRYBALKA_H264
-#EXTINF:-1,Охотник и рыбалов HD
+#EXTINF:-1,Охотник и рыболов HD
 http://starnet-md.OHOTNIK_IRIBALOV_H264
 #EXTINF:-1,Первый Космический HD
 http://starnet-md.PERVYY_KOSMICHESKIYHD_H264
@@ -431,7 +359,7 @@ http://starnet-md.PERVYY_KOSMICHESKIYHD_H264
 http://starnet-md.PRIKLIUCENIAHD_H264
 #EXTINF:-1,Рен ТВ Молдова HD
 http://starnet-md.RENTV_MOLDOVA_H264
-#EXTINF:-1,Родное Кино
+#EXTINF:-1,Родное кино
 http://starnet-md.RODNOIE_KINO_H264&tshift=true
 #EXTINF:-1,РТР Молдова HD
 http://starnet-md.RTR_MOLDOVA_H264
@@ -443,6 +371,12 @@ http://starnet-md.SARAFAN_H264
 http://starnet-md.SOIUZ_H264
 #EXTINF:-1,СТС Kids
 http://starnet-md.CTC_KIDS_H264
+#EXTINF:-1,СТС Mega
+http://starnet-md.CTCMEGA_H264&tshift=true
+#EXTINF:-1,ТНТ Exclusiv TV
+http://starnet-md.TNT_EXCLUSIV_H264&tshift=true
+#EXTINF:-1,ТНТ MUSIC
+http://starnet-md.TNT_MUSIC_H264
 #EXTINF:-1,Усадьба
 http://starnet-md.USADBA_H264
 #EXTINF:-1,Шансон ТВ
