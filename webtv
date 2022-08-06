@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1,NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1,78
 https://player.mediavitrina.ru/tk78/78ru_web/player.html
 #EXTINF:-1,2x2
