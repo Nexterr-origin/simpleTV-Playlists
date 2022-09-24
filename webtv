@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,News Front
-https://2kita.com/tvboost/index.m3u8$OPT:http-referrer=https://news-front.info/
 #EXTINF:-1,NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1,NASA TV Media
