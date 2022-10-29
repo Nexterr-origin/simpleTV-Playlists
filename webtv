@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1,NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1,NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1,78
-https://player.mediavitrina.ru/tk78/78ru_web/player.html
 #EXTINF:-1,2x2
 https://uma.media/video/dcab9b90a33239837c0f71682d6606da$OPT:http-referrer=https://2x2tv.ru/online/
+#EXTINF:-1,78
+https://player.mediavitrina.ru/tk78/78ru_web/player.html
 #EXTINF:-1,Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8$OPT:NO-STIMESHIFT
 #EXTINF:-1,Beach TV Grand Strand
@@ -15,8 +11,6 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
 #EXTINF:-1,Beach TV Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
-#EXTINF:-1,Brodilo TV
-http://brodilo.tv/channel.php
 #EXTINF:-1,Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1,First Music channel
@@ -27,10 +21,6 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 https://www.fox5atlanta.com/live
 #EXTINF:-1,FOX 5 NY
 https://www.fox5ny.com/live
-#EXTINF:-1,Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1,Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
 #EXTINF:-1,Kronehit HD
@@ -43,16 +33,12 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1,Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1,NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1,NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1,New Orleans Television
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
-#EXTINF:-1,Nickelodeon (DE)
-http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8$OPT:http-ext-header=X-Forwarded-For:2.16.10.25
-#EXTINF:-1,NRK 1 (NO)
-https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8$OPT:http-ext-header=X-Forwarded-For:5.249.230.1
-#EXTINF:-1,NRK 2 (NO)
-https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8$OPT:http-ext-header=X-Forwarded-For:5.249.230.1
-#EXTINF:-1,NRK 3 (NO)
-https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8$OPT:http-ext-header=X-Forwarded-For:5.249.230.1
 #EXTINF:-1,Ocko TV Expres
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/index.m3u
 #EXTINF:-1,Ocko TV Gold
@@ -69,10 +55,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1,RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,Russian America TV
-https://stream.russianamerica.tv/ratv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Silence TV
-http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1,Superyacht TV
 https://www.superyacht.tv/en/superyacht-tv-en
 #EXTINF:-1,Звезда
@@ -83,12 +65,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1,ЛитКлуб ТВ - Проза
-http://video.platformcraft.ru/hls/rossp/proza720/playlist.m3u8
-#EXTINF:-1,ЛитКлуб ТВ - Слово
-http://video.platformcraft.ru/hls/rossp/slovo720/playlist.m3u8
-#EXTINF:-1,ЛитКлуб ТВ - Стихи
-http://video.platformcraft.ru/hls/rossp/stihi720/playlist.m3u8
 #EXTINF:-1,Матч!
 https://uma.media/video/e22ac03fd982f961b0b39325861133fb/
 #EXTINF:-1,Матч! Страна
@@ -102,13 +78,15 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,Новый мир
 https://stream.skyvision.com.ua/nw/nw_576p/playlist.m3u8
 #EXTINF:-1,НТВ
-http://ntv.ru/air
+https://www.ntv.ru/air
 #EXTINF:-1,НТВ Право
-http://ntv.ru/air/ntvlaw
+https://www.ntv.ru/air/ntvlaw
 #EXTINF:-1,НТВ Сериал
-http://ntv.ru/air/ntvseries
+https://www.ntv.ru/air/ntvseries
 #EXTINF:-1,НТВ Стиль
-http://ntv.ru/air/ntvstyle
+https://www.ntv.ru/air/ntvstyle
+#EXTINF:-1,НТВ Хит
+https://www.ntv.ru/air/ntvhit
 #EXTINF:-1,Первый канал HD
 https://www.1tv.ru/live
 #EXTINF:-1,Победа
@@ -120,20 +98,14 @@ http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1,РБК
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1,РЖД ТВ
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1,СИЛА
 https://ok.ru/video/958144716536
-#EXTINF:-1,СТВ (Беларусь)
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
 #EXTINF:-1,Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1,ТНТ
 https://uma.media/video/4e4e37727e07a7124cd7b29f2975e295/
 #EXTINF:-1,ТНТ4
 https://uma.media/video/b0200b6f7a08fb0aad4e1289f491d1ea/
-#EXTINF:-1,Царьград
-https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
-#EXTINF:-1,Шансон ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 #EXTINF:-1,Эхо TV
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
