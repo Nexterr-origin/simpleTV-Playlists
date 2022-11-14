@@ -1,4 +1,4 @@
-#EXTM3U catchup="append" catchup-days="7" catchup-source="?start=${start}"
+#EXTM3U catchup="append" catchup-days="14" catchup-source="?start=${start}"
 #EXTINF:-1 group-title="Спорт",Матч! Премьер HD
 https://strm.yandex.ru/tv/t5hlzdMD1zZGktbm9pdGF0cGFkYS1oc2FkLWV2aXRwYWRhOlRQTyR0bmVtZ2VzLWhjYWUtbm8tdGluaS1ldml0cGFkYTpUUE8kfWViOWZhMGM4ODA0MmYxZTMzNWYyYzk2MGI0ZDM0NTI2PXlla19ub2l0cHlyY2Vkez1zbm9pdHBvLXh1bWVkdmE6VFBPJHh1bWVkdmEtZXN1LWV2aXRwYWRhOlRQTyRkcG0udHNlZmluYW0vZGhfcmVpbWVycF9oY3RhbS9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA==
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
