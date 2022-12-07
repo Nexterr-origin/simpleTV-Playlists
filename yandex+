@@ -1,10 +1,10 @@
 #EXTM3U catchup="append" catchup-days="21" catchup-source="?start=${start}"
-#EXTINF:-1 group-title="Развлекательные",FashionTV
-https://strm.yandex.ru/tv/rtylzdZHBtLnRzZWZpbmFtL3Z0X25vaWhzYWYvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg=
-#EXTINF:-1 group-title="Развлекательные",СТС Love
-https://strm.yandex.ru/tv/5gFlzdMD1zZGktbm9pdGF0cGFkYS1oc2FkLWV2aXRwYWRhOlRQTyR0bmVtZ2VzLWhjYWUtbm8tdGluaS1ldml0cGFkYTpUUE8kfWExNDAyYzBjZTMwM2M0MWEyYTAxYTQ2ZDhhMjJiYmFjPXlla19ub2l0cHlyY2Vkez1zbm9pdHBvLXh1bWVkdmE6VFBPJHh1bWVkdmEtZXN1LWV2aXRwYWRhOlRQTyRkcG0udHNlZmluYW0vZXZvbF9zdHMvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg=
-#EXTINF:-1 group-title="Развлекательные",Че!
-https://strm.yandex.ru/tv/7tRlzdMD1zZGktbm9pdGF0cGFkYS1oc2FkLWV2aXRwYWRhOlRQTyR0bmVtZ2VzLWhjYWUtbm8tdGluaS1ldml0cGFkYTpUUE8kfTA4ZjQyMmZlMjY2OTY3MThmNDM0ZDMwZWRhOTJhNTliPXlla19ub2l0cHlyY2Vkez1zbm9pdHBvLXh1bWVkdmE6VFBPJHh1bWVkdmEtZXN1LWV2aXRwYWRhOlRQTyRkcG0udHNlZmluYW0vZWhjL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
+#EXTINF:-1 group-title="Развлекательные", FashionTV
+https://strm.yandex.ru/tv/NaElzdZHBtLnRzZWZpbmFtL3Z0X25vaWhzYWYvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg=
+#EXTINF:-1 group-title="Развлекательные", СТС Love
+https://strm.yandex.ru/tv/zZWlzdfWExNDAyYzBjZTMwM2M0MWEyYTAxYTQ2ZDhhMjJiYmFjPXlla19ub2l0cHlyY2Vkez1zbm9pdHBvLXh1bWVkdmE6VFBPJHh1bWVkdmEtZXN1LWV2aXRwYWRhOlRQTyRkcG0udHNlZmluYW0vZXZvbF9zdHMvbGFrL3VyLnhlZG5heS5tcnRzLy86c3B0dGg=
+#EXTINF:-1 group-title="Развлекательные", Че!
+https://strm.yandex.ru/tv/Y3MlzdfTA4ZjQyMmZlMjY2OTY3MThmNDM0ZDMwZWRhOTJhNTliPXlla19ub2l0cHlyY2Vkez1zbm9pdHBvLXh1bWVkdmE6VFBPJHh1bWVkdmEtZXN1LWV2aXRwYWRhOlRQTyRkcG0udHNlZmluYW0vZWhjL2xhay91ci54ZWRuYXkubXJ0cy8vOnNwdHRo
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD 
 https://strm.yandex.ru/tv/JFnlzdfWViOWZhMGM4ODA0MmYxZTMzNWYyYzk2MGI0ZDM0NTI2PXlla19ub2l0cHlyY2Vkez1zbm9pdHBvLXh1bWVkdmE6VFBPJHh1bWVkdmEtZXN1LWV2aXRwYWRhOlRQTyRkcG0udHNlZmluYW0vZGhfcmVpbWVycF9oY3RhbS9sYWsvdXIueGVkbmF5Lm1ydHMvLzpzcHR0aA==
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
