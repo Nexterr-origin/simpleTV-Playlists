@@ -1,4 +1,4 @@
-#EXTM3U catchup="append" catchup-minutes=7200
+#EXTM3U catchup="append" catchup-minutes="7200"
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10300/logo_256_1658733419.png",#КтоКуда
 https://limehd.tv/2250
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14498/logo_256_1660800255.png",.Black
