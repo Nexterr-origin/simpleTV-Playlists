@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Матч!
+https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
+#EXTINF:-1,Известия
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
+#EXTINF:-1,360 Новости (Москва)
+https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD.m3u8
 #EXTINF:-1,KHL
 https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
 #EXTINF:-1,KHL Prime
