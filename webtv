@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Соловьёв Live
-https://smotrim.ru/channel/292
+#EXTINF:-1,AWESOME
+https://jkn-pa-ww-roku.otteravision.com/dist/ottera/197/hls/master/playlist.m3u8$OPT:adaptive-use-avdemux
 #EXTINF:-1,2x2
 https://uma.media/video/dcab9b90a33239837c0f71682d6606da$OPT:http-referrer=https://2x2tv.ru/online/
 #EXTINF:-1,78
@@ -19,8 +19,6 @@ https://cloudflare.tv/hls/live.m3u8
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1,First Music channel HD
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1,FOX 5 Atlanta
-https://www.fox5atlanta.com/live
 #EXTINF:-1,FOX 5 NY
 https://www.fox5ny.com/live
 #EXTINF:-1,Key TV
@@ -41,12 +39,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1,New Orleans Television
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
-#EXTINF:-1,Ocko TV Expres
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/index.m3u
-#EXTINF:-1,Ocko TV Gold
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/index.m3u
-#EXTINF:-1,Ocko TV Mixer
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/index.m3u
 #EXTINF:-1,One HD
 http://rtmp.one.by:1300
 #EXTINF:-1,OneRUS HD
@@ -67,8 +59,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1,Матч!
-https://uma.media/video/e22ac03fd982f961b0b39325861133fb/
 #EXTINF:-1,Матч! Страна
 https://uma.media/play/embed/54e136e9feb7544034daa03ba9aeab0d
 #EXTINF:-1,Министерство Идей
@@ -103,6 +93,8 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1,СИЛА
 https://ok.ru/video/958144716536
+#EXTINF:-1,Соловьёв Live
+https://smotrim.ru/channel/292
 #EXTINF:-1,Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1,ТНТ
