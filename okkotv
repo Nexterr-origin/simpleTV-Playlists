@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1,KHL
+https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
+#EXTINF:-1,KHL Prime
+https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
+#EXTINF:-1,Старт Триумф
+https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
+#EXTINF:-1,Amedia Premium
+http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
+#EXTINF:-1,Старт
+http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
+#EXTINF:-1,Star Cinema
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD.m3u8
+#EXTINF:-1,Star Family
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD.m3u8
+#EXTINF:-1,BOLT
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD.m3u8
+#EXTINF:-1,Феникс+Кино
+http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD.m3u8
+#EXTINF:-1,RU.TV
+https://okkotv-live.cdnvideo.ru/channel/RUTV_HD.m3u8
+#EXTINF:-1,Мир 24
+http://okkotv-live.cdnvideo.ru/channel/Mir_24_OTT_HD.m3u
 #EXTINF:-1,5 канал
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 #EXTINF:-1,A1
