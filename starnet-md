@@ -183,8 +183,6 @@ http://starnet-md.PRIMULIN_MOLDOVA_H264&tshift=true
 http://starnet-md.PRIMULIN_MOLDOVA_H264
 #EXTINF:-1,Private TV HD
 http://starnet-md.PRIVATETV_HD_H264
-#EXTINF:-1,Pro 2
-http://starnet-md.PRO2_H264
 #EXTINF:-1,Pro Gold
 http://starnet-md.PRO_GOLD_H264
 #EXTINF:-1,Pro TV Chisinau HD
@@ -201,8 +199,6 @@ http://starnet-md.REALITATEA_LIVE_H264
 http://starnet-md.REDLIGHT_HD_H264
 #EXTINF:-1,REN Moldova
 http://starnet-md.RENTV_MOLDOVA_H264&tshift=true
-#EXTINF:-1,Romania TV
-http://starnet-md.ROMANIA_TV_H264
 #EXTINF:-1,RTR Moldova HD
 http://starnet-md.RTR_MOLDOVA_H264&tshift=true
 #EXTINF:-1,RU.TV Moldova
