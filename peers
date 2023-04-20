@@ -27,8 +27,6 @@ http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?offset=1
 #EXTINF:-1,Da Vinci
 http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?offset=1
-#EXTINF:-1,DOCUBOX
-http://api.peers.tv/timeshift/docubox/16/playlist.m3u8?offset=1
 #EXTINF:-1,Erox
 http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?offset=1
 #EXTINF:-1,Fan HD
@@ -39,8 +37,6 @@ http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/kino24/126/playlist.m3u8?offset=1
 #EXTINF:-1,MMA-TV
 http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?offset=1
-#EXTINF:-1,Playboy TV
-http://api.peers.tv/timeshift/playboy_tv/16/playlist.m3u8?offset=1
 #EXTINF:-1,RU.TV
 http://api.peers.tv/timeshift/rutv/16/playlist.m3u8?offset=1
 #EXTINF:-1,Russia Today HD
@@ -63,14 +59,14 @@ http://api.peers.tv/timeshift/travad/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/travel_adventure_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1,TV XXI
 http://api.peers.tv/timeshift/tv21/16/playlist.m3u8?offset=1
-#EXTINF:-1,TV1000
-http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?offset=1
 #EXTINF:-1,TV1000 Action
 http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?offset=1
 #EXTINF:-1,TV1000 Русское кино
 http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?offset=1
 #EXTINF:-1,Viasat Explore
 http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?offset=1
+#EXTINF:-1,Viasat History
+http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?offset=1
 #EXTINF:-1,Viasat Nature
 http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?offset=1
 #EXTINF:-1,Viasat Sport HD
@@ -91,8 +87,6 @@ http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8?offset=1
 #EXTINF:-1,Авто Плюс
 http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?offset=1
-#EXTINF:-1,Бокс ТВ
-http://api.peers.tv/timeshift/boks_tv/16/playlist.m3u8?offset=1
 #EXTINF:-1,В гостях у сказки
 http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?offset=1
 #EXTINF:-1,ВРЕМЯ
@@ -115,8 +109,6 @@ http://api.peers.tv/timeshift/drive/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/evpatorija/126/playlist.m3u8?offset=1
 #EXTINF:-1,Еврокино
 http://api.peers.tv/timeshift/eurokino/16/playlist.m3u8?offset=1
-#EXTINF:-1,ЕГЭ
-http://api.peers.tv/timeshift/ege/16/playlist.m3u8?offset=1
 #EXTINF:-1,Еда Премиум
 http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1,Живая планета
@@ -135,8 +127,6 @@ http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?offset=1
 #EXTINF:-1,Калейдоскоп ТВ
 http://api.peers.tv/timeshift/kaleydoskop/16/playlist.m3u8?offset=1
-#EXTINF:-1,Капитан Фантастика
-http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1,Карусель
 http://api.peers.tv/timeshift/karusel/16/playlist.m3u8?offset=1
 #EXTINF:-1,Кино ТВ HD
@@ -145,8 +135,6 @@ http://api.peers.tv/timeshift/kino_tv_hd/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?offset=1
 #EXTINF:-1,Киномикс
 http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?offset=1
-#EXTINF:-1,Кинопремьера HD
-http://api.peers.tv/timeshift/premera/16/playlist.m3u8?offset=1
 #EXTINF:-1,Киносвидание
 http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?offset=1
 #EXTINF:-1,Киносемья
@@ -215,8 +203,6 @@ http://api.peers.tv/timeshift/nasha_tema/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?offset=1
 #EXTINF:-1,ННТВ
 http://api.peers.tv/timeshift/nntv/126/playlist.m3u8?offset=1
-#EXTINF:-1,Новосибирские новости
-http://api.peers.tv/timeshift/nsknews/16/playlist.m3u8?offset=1
 #EXTINF:-1,Ностальгия
 http://api.peers.tv/timeshift/nostalgy/16/playlist.m3u8?offset=1
 #EXTINF:-1,НТВ
@@ -233,20 +219,14 @@ http://api.peers.tv/timeshift/otvrus/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/ots/16/playlist.m3u8?offset=1
 #EXTINF:-1,Охота и рыбалка
 http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?offset=1
-#EXTINF:-1,Первый
-http://api.peers.tv/timeshift/1kanal/126/playlist.m3u8?offset=1
 #EXTINF:-1,Первый (+4)
 http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?offset=1
 #EXTINF:-1,Первый HD
 http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1,Первый вегетарианский
 http://api.peers.tv/timeshift/pervyy_vegetarianskiy/16/playlist.m3u8?offset=1
-#EXTINF:-1,Первый Театральный Канал
-http://api.peers.tv/timeshift/1teatr/16/playlist.m3u8?offset=1
 #EXTINF:-1,Победа
 http://api.peers.tv/timeshift/pobeda/16/playlist.m3u8?offset=1
-#EXTINF:-1,Приключения HD
-http://api.peers.tv/timeshift/teleputeshestvija_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1,Пятница
 http://api.peers.tv/timeshift/friday/16/playlist.m3u8?offset=1
 #EXTINF:-1,Пятый (+4)
@@ -277,8 +257,6 @@ http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?offset=1
 #EXTINF:-1,Русский Экстрим
 http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?offset=1
-#EXTINF:-1,Рыжий
-http://api.peers.tv/timeshift/red/16/playlist.m3u8?offset=1
 #EXTINF:-1,Салям
 http://api.peers.tv/timeshift/salyam/126/playlist.m3u8?offset=1
 #EXTINF:-1,Самотлор
@@ -297,8 +275,6 @@ http://api.peers.tv/timeshift/soyuz/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/spas/16/playlist.m3u8?offset=1
 #EXTINF:-1,СТС love
 http://api.peers.tv/timeshift/sts_love/16/playlist.m3u8?offset=1
-#EXTINF:-1,Супер
-http://api.peers.tv/timeshift/super/16/playlist.m3u8?offset=1
 #EXTINF:-1,Супергерои
 http://api.peers.tv/timeshift/supergeroi/16/playlist.m3u8?offset=1
 #EXTINF:-1,ТВ Центр
