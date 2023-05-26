@@ -7,7 +7,7 @@ http://edge05.beetv.kz/btv/SWM/A2/A2.m3u8
 http://edge05.beetv.kz/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
 #EXTINF:-1,Animal Planet
 http://edge05.beetv.kz/btv/SWM/animal_hd/animal_hd.m3u8
-#EXTINF:-1,BBC World
+#EXTINF:-1,BBC World News
 http://edge05.beetv.kz/btv/SWM/BBC_World/BBC_World.m3u8
 #EXTINF:-1,Big Planet
 http://edge05.beetv.kz/btv/SWM/big_planet_hd/big_planet_hd.m3u8
@@ -51,13 +51,13 @@ http://edge05.beetv.kz/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
 http://edge05.beetv.kz/btv/icon/Nick_Jr/Nick_Jr.m3u8
 #EXTINF:-1,Nickelodeon
 http://edge05.beetv.kz/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
-#EXTINF:-1,NTV Mir
+#EXTINF:-1,НТВ Мир
 http://edge05.beetv.kz/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
 #EXTINF:-1,Q Sport International
 http://edge05.beetv.kz/btv/SWM/Qsport_international/Qsport_international.m3u8
 #EXTINF:-1,QAZSPORT
 http://edge05.beetv.kz/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
-#EXTINF:-1,Setanta Sports 1
+#EXTINF:-1,Setanta Sports 1 HD KZ
 http://edge05.beetv.kz/btv/SWM/setantasports1hdkz/setantasports1hdkz.m3u8
 #EXTINF:-1,Setanta Sports 1 HD
 http://edge05.beetv.kz/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
@@ -141,3 +141,53 @@ http://edge05.beetv.kz/btv/SWM/TNT_HD_RUS/TNT_HD_RUS.m3u8
 http://edge05.beetv.kz/btv/SWM/TNT4/TNT4.m3u8
 #EXTINF:-1,Уникум
 http://edge05.beetv.kz/btv/SWM/Detsky_SWM/Detsky_SWM.m3u8
+#EXTINF:-1,Кинеко HD
+http://edge05.beetv.kz/btv/SWM/kineko_hd/kineko_hd.m3u8
+#EXTINF:-1,Сапфир HD
+http://edge05.beetv.kz/btv/SWM/sapfir_hd/sapfir_hd.m3u8
+#EXTINF:-1,НТВ Сериал
+http://edge05.beetv.kz/btv/SWM/ntv_serial/ntv_serial.m3u8
+#EXTINF:-1,EuroNews
+http://edge05.beetv.kz/btv/SWM/SWM_Euronews_alt/SWM_Euronews_alt.m3u8
+#EXTINF:-1,8 канал
+http://edge05.beetv.kz/btv/SWM/SWM_8/SWM_8.m3u8
+#EXTINF:-1,E TV
+http://edge05.beetv.kz/btv/SWM/etv/etv.m3u8
+#EXTINF:-1,Пятый канал
+http://edge05.beetv.kz/btv/SWM/SWM_5kanal/SWM_5kanal.m3u8
+#EXTINF:-1,Start.Air HD
+http://edge05.beetv.kz/btv/SWM/start_air_hd/start_air_hd.m3u8
+#EXTINF:-1,Start.World HD
+http://edge05.beetv.kz/btv/SWM/start_world_hd/start_world_hd.m3u8
+#EXTINF:-1,CNN
+http://edge05.beetv.kz/btv/SWM/CNN/CNN.m3u8
+#EXTINF:-1,Точка отрыва
+http://edge05.beetv.kz/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8
+#EXTINF:-1,viju+ Sport
+http://edge05.beetv.kz/btv/SWM/viasatsport/viasatsport.m3u8
+#EXTINF:-1,Удар HD
+http://edge05.beetv.kz/btv/SWM/udar_hd/udar_hd.m3u8
+#EXTINF:-1,viju TV1000 русское HD
+http://edge05.beetv.kz/btv/SWM/tv1000rukinohd/tv1000rukinohd.m3u8
+#EXTINF:-1,viju Explore HD
+http://edge05.beetv.kz/btv/SWM/viasatexplorerhd/viasatexplorerhd.m3u8
+#EXTINF:-1,viju Nature HD
+http://edge05.beetv.kz/btv/SWM/viasatnaturehd/viasatnaturehd.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://edge05.beetv.kz/btv/SWM/davinchi/davinchi.m3u8
+#EXTINF:-1,РБК
+http://edge05.beetv.kz/btv/SWM/RBK_TV/RBK_TV.m3u8
+#EXTINF:-1,Setanta Qazaqstan HD KZ
+http://edge05.beetv.kz/btv/SWM/SetantaKZ_HD/SetantaKZ_HD.m3u8
+#EXTINF:-1,Setanta Sports 2 HD KZ
+http://edge05.beetv.kz/btv/SWM/setantasports2hdkz/setantasports2hdkz.m3u8
+#EXTINF:-1,Q SPORT League HD
+http://edge05.beetv.kz/btv/SWM/Q/Q.m3u8
+#EXTINF:-1,Загородная жизнь HD
+http://edge05.beetv.kz/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn.m3u8
+#EXTINF:-1,Caspian News
+http://edge05.beetv.kz/btv/SWM/CaspioNews/CaspioNews.m3u8
+#EXTINF:-1,Музыка Первого
+http://edge05.beetv.kz/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo.m3u8
+#EXTINF:-1,Тайны галактики HD
+http://edge05.beetv.kz/btv/SWM/tayni_galaktiki_hd/tayni_galaktiki_hd.m3u8
