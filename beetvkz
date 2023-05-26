@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1,Amedia 1
+http://edge05.beetv.kz/btv/SWM/A1/A1.m3u8
+#EXTINF:-1,Amedia 2
+http://edge05.beetv.kz/btv/SWM/A2/A2.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://edge05.beetv.kz/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+#EXTINF:-1,Animal Planet
+http://edge05.beetv.kz/btv/SWM/animal_hd/animal_hd.m3u8
+#EXTINF:-1,BBC World
+http://edge05.beetv.kz/btv/SWM/BBC_World/BBC_World.m3u8
+#EXTINF:-1,Big Planet
+http://edge05.beetv.kz/btv/SWM/big_planet_hd/big_planet_hd.m3u8
+#EXTINF:-1,Bollywood HD
+http://edge05.beetv.kz/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
+#EXTINF:-1,Cartoonito
+http://edge05.beetv.kz/btv/SWM/Boomerang/Boomerang.m3u8
+#EXTINF:-1,Cinema
+http://edge05.beetv.kz/btv/SWM/CINEMA/CINEMA.m3u8
+#EXTINF:-1,Comedy Central
+http://edge05.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
+#EXTINF:-1,Discovery HD
+http://edge05.beetv.kz/btv/SWM/discovery_hd/discovery_hd.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://edge05.beetv.kz/btv/SWM/Eurosport/Eurosport.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://edge05.beetv.kz/btv/SWM/Eurosport2/Eurosport2.m3u8
+#EXTINF:-1,FilmUADrama
+http://edge05.beetv.kz/btv/SWM/FilmUADrama/FilmUADrama.m3u8
+#EXTINF:-1,FOX HD
+http://edge05.beetv.kz/btv/SWM/FOX/FOX.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://edge05.beetv.kz/btv/SWM/FoxLife/FoxLife.m3u8
+#EXTINF:-1,Gulli Girl
+http://edge05.beetv.kz/btv/SWM/Guilli/Guilli.m3u8
+#EXTINF:-1,H2
+http://edge05.beetv.kz/btv/SWM/History2HD/History2HD.m3u8
+#EXTINF:-1,History HD
+http://edge05.beetv.kz/btv/SWM/HistoryHD/HistoryHD.m3u8
+#EXTINF:-1,Hollywood
+http://edge05.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
+#EXTINF:-1,Mezzo
+http://edge05.beetv.kz/btv/SWM/Mezzo_Alt_SWM/Mezzo_Alt_SWM.m3u8
+#EXTINF:-1,MTV 00s
+http://edge05.beetv.kz/btv/SWM/mtv_00/mtv_00.m3u8
+#EXTINF:-1,MTV Live HD
+http://edge05.beetv.kz/btv/SWM/MTV_Russia/MTV_Russia.m3u8
+#EXTINF:-1,National Geographic HD
+http://edge05.beetv.kz/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
+#EXTINF:-1,Nick Jr
+http://edge05.beetv.kz/btv/icon/Nick_Jr/Nick_Jr.m3u8
+#EXTINF:-1,Nickelodeon
+http://edge05.beetv.kz/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
+#EXTINF:-1,NTV Mir
+http://edge05.beetv.kz/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
+#EXTINF:-1,Q Sport International
+http://edge05.beetv.kz/btv/SWM/Qsport_international/Qsport_international.m3u8
+#EXTINF:-1,QAZSPORT
+http://edge05.beetv.kz/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
+#EXTINF:-1,Setanta Sports 1
+http://edge05.beetv.kz/btv/SWM/setantasports1hdkz/setantasports1hdkz.m3u8
+#EXTINF:-1,Setanta Sports 1 HD
+http://edge05.beetv.kz/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
+#EXTINF:-1,Setanta Sports 2 HD
+http://edge05.beetv.kz/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+#EXTINF:-1,Terra
+http://edge05.beetv.kz/btv/SWM/terra_hd/terra_hd.m3u8
+#EXTINF:-1,Tiji
+http://edge05.beetv.kz/btv/SWM/TiJi_Alt_SWM/TiJi_Alt_SWM.m3u8
+#EXTINF:-1,TLC
+http://edge05.beetv.kz/btv/SWM/tlc_hd/tlc_hd.m3u8
+#EXTINF:-1,Trash HD
+http://edge05.beetv.kz/btv/SWM/trash_hd/trash_hd.m3u8
+#EXTINF:-1,TV XXI
+http://edge05.beetv.kz/btv/SWM/tv21/tv21.m3u8
+#EXTINF:-1,Viju History
+http://edge05.beetv.kz/btv/SWM/viasathistoryhd/viasathistoryhd.m3u8
+#EXTINF:-1,Viju+  Premiere
+http://edge05.beetv.kz/btv/SWM/vip_premiere_hd/vip_premiere_hd.m3u8
+#EXTINF:-1,Viju+  Serial
+http://edge05.beetv.kz/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
+#EXTINF:-1,Viju+ TV1000
+http://edge05.beetv.kz/btv/SWM/tv1000hd/tv1000hd.m3u8
+#EXTINF:-1,Viju+ TV1000 Action
+http://edge05.beetv.kz/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
+#EXTINF:-1,VIP Comedy
+http://edge05.beetv.kz/btv/SWM/vip_comedy_hd/vip_comedy_hd.m3u8
+#EXTINF:-1,VIP Megahit
+http://edge05.beetv.kz/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
+#EXTINF:-1,Zooпарк
+http://edge05.beetv.kz/btv/SWM/Zoopark_SWM/Zoopark_SWM.m3u8
+#EXTINF:-1,Анекдот ТВ
+http://edge05.beetv.kz/btv/SWM/anekdot_tv/anekdot_tv.m3u8
+#EXTINF:-1,Беларусь 24
+http://edge05.beetv.kz/btv/SWM/Belarus/Belarus.m3u8
+#EXTINF:-1,Дом кино
+http://edge05.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino.m3u8
+#EXTINF:-1,Дом кино Премиум
+http://edge05.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
+#EXTINF:-1,Домашние животные
+http://edge05.beetv.kz/btv/SWM/Dom_Jivotnye_SWM/Dom_Jivotnye_SWM.m3u8
+#EXTINF:-1,Дорама
+http://edge05.beetv.kz/btv/SWM/Dorama/Dorama.m3u8
+#EXTINF:-1,Еврокино
+http://edge05.beetv.kz/btv/SWM/Eurokino/Eurokino.m3u8
+#EXTINF:-1,Еда Премиум Международный
+http://edge05.beetv.kz/btv/SWM/eda_premium_hd/eda_premium_hd.m3u8
+#EXTINF:-1,Иллюзион+
+http://edge05.beetv.kz/btv/SWM/Illuzion-Plus_SWM/Illuzion-Plus_SWM.m3u8
+#EXTINF:-1,Капитан Фантастика
+http://edge05.beetv.kz/btv/SWM/Fantastica_HD/Fantastica_HD.m3u8
+#EXTINF:-1,Карусель
+http://edge05.beetv.kz/btv/SWM/Karusel/Karusel.m3u8
+#EXTINF:-1,Мир сериала
+http://edge05.beetv.kz/btv/SWM/mir_seriala/mir_seriala.m3u8
+#EXTINF:-1,Мужской
+http://edge05.beetv.kz/btv/SWM/Muzhskoy/Muzhskoy.m3u8
+#EXTINF:-1,Мульт
+http://edge05.beetv.kz/btv/SWM/SWM_Mult/SWM_Mult.m3u8
+#EXTINF:-1,НСТ
+http://edge05.beetv.kz/btv/SWM/HCT/HCT.m3u8
+#EXTINF:-1,Первый Космический HD
+http://edge05.beetv.kz/btv/SWM/1_kosmo_HD/1_kosmo_HD.m3u8
+#EXTINF:-1,Перец
+http://edge05.beetv.kz/btv/SWM/Perec/Perec.m3u8
+#EXTINF:-1,Приключения HD
+http://edge05.beetv.kz/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya_HD.m3u8
+#EXTINF:-1,Психология 21
+http://edge05.beetv.kz/btv/SWM/Psychology21_SWM/Psychology21_SWM.m3u8
+#EXTINF:-1,Рен ТВ International
+http://edge05.beetv.kz/btv/SWM/RenTV/RenTV.m3u8
+#EXTINF:-1,Рыжий
+http://edge05.beetv.kz/btv/SWM/Ryzhyi/Ryzhyi.m3u8
+#EXTINF:-1,СТС International
+http://edge05.beetv.kz/btv/icon/CTC_International/CTC_International.m3u8
+#EXTINF:-1,Телекафе
+http://edge05.beetv.kz/btv/icon/Telecafe/Telecafe.m3u8
+#EXTINF:-1,ТНТ International
+http://edge05.beetv.kz/btv/SWM/TNT_HD_RUS/TNT_HD_RUS.m3u8
+#EXTINF:-1,ТНТ4 International
+http://edge05.beetv.kz/btv/SWM/TNT4/TNT4.m3u8
+#EXTINF:-1,Уникум
+http://edge05.beetv.kz/btv/SWM/Detsky_SWM/Detsky_SWM.m3u8
