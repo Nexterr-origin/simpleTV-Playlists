@@ -1,4 +1,6 @@
 #EXTM3U catchup="append" catchup-minutes="7200"
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17242/logo_256_1682688528.png",FilmBox
+https://limehd.tv/21001
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10300/logo_256_1658733419.png",#КтоКуда
 https://limehd.tv/2250
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13588/logo_256_1660800223.png",#ё (Самара)
