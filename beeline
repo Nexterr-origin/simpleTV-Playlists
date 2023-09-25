@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", #КтоКуда
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", #КтоКуда
 https://beeline.tv/PTBITWlsVE53SVRaaVpEWndRR1ptVldZeUlHTmxOMk1qQlRaeElET2hWR014MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFUTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", .black
 https://beeline.tv/PTBYWTBJak0yTTJOelFHWnlNR056VTJNamhqTTNrRE54RXpNMGtETTRJVE13MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlUTnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
@@ -7,15 +7,15 @@ https://beeline.tv/PTBYWTBJak0yTTJOelFHWnlNR056VTJNamhqTTNrRE54RXpNMGtETTRJVE13M
 https://beeline.tv/PTBIWjFJMlk1RVdaemNETXprak1oaHpOM2tUT2tWVE40WW1NeVlXWWtObVoyMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUl6Tnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", .sci-fi
 https://beeline.tv/PTBuWXhRRE93WVdad0lUWXhFaloyWUROalJUTzNVbU5qUkdPaWhqTWlaR08wMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVUTnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", 1HD Music Television
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", 1HD Music Television
 https://beeline.tv/PTBITmtOak5qTm1NNElXWWloek4zTVdNaE5HTm1aVE40Y2paMEFETmpkVE41MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWN6TXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", 2х2
 https://beeline.tv/PTBYWTFFV1ppSjJZMUFETWhSMk41SURObU5XWWpCak0wTVRNaVJqTjFNV1l5MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVqTXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", 360° HD
 https://beeline.tv/PTBITjRnRFoxSXpOMkFUT3hralltWmpObFZtWXdNRFp5UVdZM2dUTTJNek5oMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlETXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", 365 дней ТВ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", 365 дней ТВ HD
 https://beeline.tv/PTBuWmtCalkwUXpObVJXWnlVelkya3pOeFVtTm1Oelk0RVRNM1V6WTJFRE9rMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1ETXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", 7tv
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", 7tv
 https://beeline.tv/PTBuWWlsek4wUWpOa0pXTjBBVFloWkdPMFVHTzRFbVpsSkRPMUFUTTJFMllpMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVqTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Региональные", 8 канал
 https://beeline.tv/PTBYTzNBek55SXpOakpUTmxoall6QWpNNVVtTXljRFptRm1OM1VUWTVjall4MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWd6TXl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
@@ -27,129 +27,129 @@ https://beeline.tv/PTBITzNrek5sTmpaa0ZtWjBrVE4wRXpNbVZ6TmpKek0xRVdPeVlXWWxOR001M
 https://beeline.tv/PTAzTjNrRE54TWpaekF6Tmpoek00TURaMVlXTTNBVFl5SUdPeEV6WTJNVE4xMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlUTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", AMEDIA Premium HD
 https://beeline.tv/PTBuTmpWV09pWkdPek16TnpJR04xWVROa1JqTWlSMk13Z3pNeGNqTnlVR09sMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVqTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", Ani
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Детские", Ani
 https://beeline.tv/PTAzTmlCVE53VVdOMk0yWXdFR041Y0ROaE4yTWhSRE95WVRPMGNUTzRBalptMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNETXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Взрослые", Babes TV
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Взрослые", Babes TV
 https://beeline.tv/PTBYWTNBVE1oSkROMEFqTmtsVE0xZ1RONFUyWXhNV015SXpZa1YyWW1WRFoxMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUl6TjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Взрослые", Barely Legal
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Взрослые", Barely Legal
 https://beeline.tv/PTBYTmpGRE4ySUROeklXT2lSak55VURPd1VtTjJVbU56UUdaeFFXTTFBRE5tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFqTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", BIG PLANET
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", BIG PLANET
 https://beeline.tv/PTBYT2taVE9sQmpZelFXWWhKRE8yRWpNME1ETTFNek1rZHpNM0VHWmtKak01MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1UTTF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Взрослые", blue HUSTLER
 https://beeline.tv/PTBIWndralo1Y3pZelFHTjFVbU0yUUdOamRUTXhjRE4za1RPbVJUWTVJRE40MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlqTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Bollywood HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", Bollywood HD
 https://beeline.tv/PTBuWndRR05rWmpNbWxqTjVJalpqUkRNaUpUWWpGVE5sbFROMk1ETmhWVE1oMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVV6Tnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Взрослые", Brazzers TV Europe
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Взрослые", Brazzers TV Europe
 https://beeline.tv/PTBuTjVRRFp3SWpOa2R6TmloVFoyTVRPalpUTjBVVE8wZ0RNa05ETjJNVFowMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlUTXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", BRIDGE
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", BRIDGE
 https://beeline.tv/PTBITXhVMlkyY3pNNFkyTWpObU0xSUROekFqTmtaak13a0RaMVlHTjBNak4wMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1UTXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", BRIDGE CLASSIC
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", BRIDGE CLASSIC
 https://beeline.tv/PTBITW1sRE4xZ2pZekUyTmxOV09oRnpNeElqWXprVE5taFRObFJXWmxCVFl6MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFUTXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", BRIDGE HITS
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", BRIDGE HITS
 https://beeline.tv/PTBYT2tWbU54TWpaM1F6TjNZbVlsRlRPellXT2lWalk0UUdaNVlUTzRRak53MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFqTXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", BRIDGE Русский Хит
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", BRIDGE Русский Хит
 https://beeline.tv/PTBYWTBNR09tWkdPMmNqTmxabVowUUROaU5HT3pnVFl3RTJZMWdUTnhRbU1pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFUTnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Иностранные", CCTV-4
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Иностранные", CCTV-4
 https://beeline.tv/PTBuWjNVRE1rSlRaMGdEWnlnRE1rWjJZNFlHTTFFek53SXpZeWdETzJFV054MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFUT3p3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Иностранные", CGTN
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Иностранные", CGTN
 https://beeline.tv/PTBuWWlsRE1pZERPM2NETXdVbU00SVdOM01qTWhWVE9qSm1aeklXTTRNVE1tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1UT3p3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Cinema
 https://beeline.tv/PTBYWndBalp3UUdNMFFqWnpBak1rWkdOaWhUTWhSVFowWUdabEpETjNnRE5tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNUTXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", Classic Music HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", Classic Music HD
 https://beeline.tv/PTBYTWtKVE00UVdOakJETmxKR041UXpObUoyTXpJV1prVlRZMEFETWlkRE56MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVETjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", CuriosityStream HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", CuriosityStream HD
 https://beeline.tv/PTBuWXhJMk40TUdNeFltWjFRRE1sTmpaMlFUTzBVV1ozUW1ObVpHTTBnalkyMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1UTjF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Da Vinci
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Da Vinci
 https://beeline.tv/PTBITmtWMk4yRVdZeVFXTmxaRE8zZ2pNNFFUTWlaVE9rbERPbVJXWmtaVFprMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtUTXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", DocuBox HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", DocuBox HD
 https://beeline.tv/PTBYTTJZelkwUVRPbUpUTWlOV05obGpZMlFHWjNJRFoxUVRONUF6TjFjVE40MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlETnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", Duck TV HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Детские", Duck TV HD
 https://beeline.tv/PTBuTTJFVFp5a0RaellHTWxSell5RUdNbE5HTm1OMk0zRVdZd2tUWTNVV09rMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU16TjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", E TV
 https://beeline.tv/PTBIWmxWVE54UWpOeGNqWmhsRFptTlRPa05UT3pJRE9rbGpOeEVqTmpGMlkyMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUF6TXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", Europa Plus TV HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", Europa Plus TV HD
 https://beeline.tv/PTBuTXprelkyTVdNa0ptTW1SVFozSVRNeGNUTmhkRE8yZ2paMmtqWWhKV1lpMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtUT3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Extreme Sports HD
 https://beeline.tv/PTBuWjVZVE41QWpOMmNETWxWellpWldaMlVHWjNJMk0zWXpOd1lHWm1KVE0xMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVUTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Взрослые", Exxxotica HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Взрослые", Exxxotica HD
 https://beeline.tv/PTBuTTRJVE80Z0RPbEJUTXlFVE1oUkRPeU16TWtabVoxSWpaek1UWmtGRE5tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlETjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", FAN HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", FAN HD
 https://beeline.tv/PTAzTnlVR00zY2pZMUlXTmpoak5pUmpZeGdET2xGRE54TW1NMUlUWmhKek00MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtUTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", FashionTV HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", FashionTV HD
 https://beeline.tv/PTBITzNJV056a1ROMEFUTTRVVE5rRjJZM1F6Tm1OR014TTJZaWh6TjFBRE9pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVETXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Fast&FunBox HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", Fast&FunBox HD
 https://beeline.tv/PTBITmhaRFp5Z0RPbFpUTWhKMllqTldPM01UT2pCek0xWVdZd1lETndVRE5oMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1ETnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", FightBox HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", FightBox HD
 https://beeline.tv/PTAzTTFZVE1saHpNa2hqTXpralp4Y1Raa1pXTzVnVE4wTUdaekFETmhoVE1oMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNqTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", FilmBox
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", FilmBox
 https://beeline.tv/PTBYWXlBak56UURaM0V6TTNVVFozVVdPak5HTzNVR055Y2paa1ZHWjJFbU0xMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFETnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", FoodTime HD
 https://beeline.tv/PTBYWnpnVFpqRldZa0ZtTTFVRE8wTVRPMVFtWTNJek0zWXpONE1HT2hSR1p3MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlqTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Взрослые", French Lover TV
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Взрослые", French Lover TV
 https://beeline.tv/PTBYWTRRVFlqRlRZMlFXT2lWV1o0WVROd1kyTXlVV09tbERaeVFqTjVZVFp6MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlUTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", Gulli Girl
 https://beeline.tv/PTBIT2haRE1qUkdaM0lXTWxSVE55Z1ROaVpHT2xCelkwY1RPMVVHTWxoVE00MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUV6TXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", HDL
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", HDL
 https://beeline.tv/PTBuTmhKek55UVdNbEJ6TjBnak1sVjJNM2NqWWhGalp4SVdaMFVtTndVMk54MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdETnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Hollywood HD
 https://beeline.tv/PTBITXhRek14Y3pNNFFHT3lJRE14WVRZeGNUWmxKak01WURaemtEWnpNbU14MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFUTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", KHL
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", KHL
 https://beeline.tv/PTBuTnpJMk5obGpabE5UTzBnRE0yRW1aekVXTXhFMk4xY0RPemtETnhFV1p6MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVUT3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", KHL Prime
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", KHL Prime
 https://beeline.tv/PTBuWmtWbVprSkRNMUV6TnlRV01sRkdPa0Z6TjJnak00Y2pZd1UyWTVZek1sMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlqTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Leomax24
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Leomax24
 https://beeline.tv/PTAzTWxKall5a3pOd1lUWm1SbVp5TXpNM0FUTzBFVE8wa1RNM0lqTjFRbU5pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVUTXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", MCM Top
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", MCM Top
 https://beeline.tv/PTBuTWtGVFlpRmpZMVltTTNZak5rUlRNMUV6TjBVVE5pUkdOd2N6TmlaMk4yMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVV6TXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", Mezzo
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", Mezzo
 https://beeline.tv/PTBuWjRjRE4yTVdZeFlETnlVR1o1Y0RNaVJqWnpZbU0wQXpNd0UyTW1KVFl3MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlETnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", Mezzo Live HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", Mezzo Live HD
 https://beeline.tv/PTBYWmpSVE4yUVdZaEpHT21Oak0wSURNaE4yTjNVRFoyUWpZbFpXTmlGbU1qMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlUTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", MMA-TV.com HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", MMA-TV.com HD
 https://beeline.tv/PTBuWWlkek56Z1RaNU0yWWlSbVkyRUROeVlHTTRZalppRkdad01XT21CRE14MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVqTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", MUSIC BOX GOLD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", MUSIC BOX GOLD
 https://beeline.tv/PTAzTWlWVFlpQkRad0kyWTRZbU14a1RPd2dUWTNRMk55Z1RPd1lHTWhSek1rMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVETnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", MUSIC BOX RUSSIAN
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", MUSIC BOX RUSSIAN
 https://beeline.tv/PTAzWWlKalpoVmpOMVVUWWlKVE40WURNM0kyTm1aVFlpZGpOakpHT3hjalkxMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFETnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Взрослые", O-la-la
 https://beeline.tv/PTBIWmtWbVoxWUdPbFp6WTFNak1sRmpaalYyTWpWRE9tRldOelF6TWpaMll4MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtETnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Plan B
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", Plan B
 https://beeline.tv/PTBITXhJalk0VTJZNUUyWW1Sek5qVldNaU4yTmxOalkzVW1aaUYyTTBjRE5tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVETjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Взрослые", Playboy TV
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Взрослые", Playboy TV
 https://beeline.tv/PTBuWTVnVE01UVROelFXWmhaRE0zSWpabE5UWXhjVFl5RW1ZMFlHTXhBalk1MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNETnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Взрослые", Red Lips HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Взрослые", Red Lips HD
 https://beeline.tv/PTAzTmpKVE8zTUdNbFJqWXpnVE94SURaeVFXWWpCVFk1Z1RabGRETzNRMk53MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1ETjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Иностранные", RT HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Иностранные", RT HD
 https://beeline.tv/PTBuTXpjRE80RURPa1oyTTVnelkwRURNd2dEWm1ORE80UXpNaEJqTmhSV1o1MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdUTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", RTG HD
 https://beeline.tv/PTBYTWhCak0yQURaM0VUWjVFR014VWpZNWdqTW1KVFl4TXpONVFUTzBVek13MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVl6Tnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", RTG TV
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", RTG TV
 https://beeline.tv/PTBYWmtSek1pQlRNaE5HTTJNVFp5TWpZaGhEWmpkVE96UUdPMElUWndFVE00MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtETnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Информационные", RTД HD
 https://beeline.tv/PTBYTmpCRE9tUkRPeUlXWm1sRE81QWpNMFV6WW1SVFl4UUdaMWd6TXpRV093MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNUTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", RU.TV
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", RU.TV
 https://beeline.tv/PTBuWm1GVE5qZEROeUVqWndRalp5TWpZNVlHTmxSak16UW1ObGhUWXhFellpMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdETnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Russian Extreme HD
 https://beeline.tv/PTBYTW1KV04zVXpNaUpXTjVFbU5sZHpOeklETjBFRFpsRldPMGN6TjRBVFppMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNUTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Shopping live
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Shopping live
 https://beeline.tv/PTAzTWhKek14VW1NbVZqWWxkVE8wVUdPelVUTTRNVFlpUlROaWhEWjBRek54MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNETXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", START Air
 https://beeline.tv/PTBIWmhkalprVkdNa0pETjRFMlloTkdNbFZqWXhVMk1rTm1OM2NUT3dNbU4yMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtqTjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", START World
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", START World
 https://beeline.tv/PTBITnlRellraGpNbUpHT3hRVE8xZ0RaaWxET21WbVk0SUdPaVJqTWxSbVp6MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUF6TjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", TERRA HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", TERRA HD
 https://beeline.tv/PTBYTzFBek53UW1ZeWNUTXdZVFkxa1RPMUlqWWxWRFoyTUdaek1UTjJFek00MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFUTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", TiJi
 https://beeline.tv/PTBITW1WellrVldNbVpXWjFVMk15TVRNbFpUWXhVak5rRlRad2dqTTBFRE40MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlUTnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Timeless Dizi Channel HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", Timeless Dizi Channel HD
 https://beeline.tv/PTAzTm1sRE1oaGpNNElqWXdVelkxSUdONUVXTmhoalltZGpNNWd6WTNnVE0wMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFETjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", TRACE Sport Stars HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", TRACE Sport Stars HD
 https://beeline.tv/PTBYTTRRR05tSm1OMEF6WWhKbU0xUW1aMGNqWXhJRFpsRjJNeVFtWmpoRFptMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVqTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Trash HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", Trash HD
 https://beeline.tv/PTAzTmtGV1p5UVdPaVJtTmlkak5qaERONElETm1Gak01SVdaa0JqTTVFRE80MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVUTTF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Travel+Adventure HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Travel+Adventure HD
 https://beeline.tv/PTBYTjVNVFk0TWpNaFJXT2xaek5rUm1ZeEVEWndrVE9qZHpOeVVHWnlZVFppMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtqTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", VHS-KA HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", VHS-KA HD
 https://beeline.tv/PTBuWjFFR05qaERNbGRqWWpWMk00a3pNd0VXTzBNbU5rVkRaa0J6TTFFRE95MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWN6TTF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", viju Explore HD
 https://beeline.tv/PTBIT3pJbVozUVdOeE1XWW1GR1ptVnpNeE1HTTNJVFo1RW1ObVpETzVVVFk1MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFqTnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
@@ -171,271 +171,271 @@ https://beeline.tv/PTBYWTBNak4xWXpObUZtTWpSR040WTJOM1lETTVNelloTlRNemNqTWlKMk1oM
 https://beeline.tv/PTBYWjBVRFptQlROeE1tTWhSalprbERNbWhETnhRalozVUdPMlV6TTFJR01pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtqTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", viju+ Premiere HD
 https://beeline.tv/PTBITmlaak53TXpONFFUTmtKVFozTTJZbVZXWm1ORE8xUXpNaUpETTFRbU4zMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtETnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", viju+ Serial HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", viju+ Serial HD
 https://beeline.tv/PTBITzNFR05pUkROa0ptTXhjVFoxRW1aMmNETmpSRE1qUlRZNVlET2tSVE96MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUl6TXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", viju+ Sport HD
 https://beeline.tv/PTBIT2lsak5pTmpONEFUTmxkek1oRkRObVZ6TWloak1tSnpONWtETzVZV1prMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU16Tnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", WOMEN’S MAGAZINE
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", WOMEN’S MAGAZINE
 https://beeline.tv/PTBuWWxaak01TTJOd0lHTTJFelk1RW1ZNFkyWXljek1sUjJOeVFUWXhVRE0wMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVUTTF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", World Fashion Channel HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", World Fashion Channel HD
 https://beeline.tv/PTBITXhZRFpobHpOM2tqTnpVR04xRW1aME1ETXpFbU5tRmpaekFqWWhsRE9oMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtqTXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Zоопарк
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Zоопарк
 https://beeline.tv/PTAzTmxabVl6TVdPaVZUT2hkalprbFRNeVltTXhRMk5sRldZalJHTjVZV016MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWN6Tnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Мужские", Авто Плюс HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Мужские", Авто Плюс HD
 https://beeline.tv/PTAzTjFNVFl4UVdNakpqWTBFV013VURNamRqTm1OV056TVdZMmNqWTBNR1p3MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1qTnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Мужские", АВТО24
 https://beeline.tv/PTBYT21GMk1oUmpNMWdETjRZek1oZFRaeU1tTnhZak00RVdPMk1UWTFNbVpsMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVqTnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Анекдот ТВ
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", Анекдот ТВ
 https://beeline.tv/PTBITWhSV09sUkdPMklHT3hZRE41UWpaMk16WWpOV094VVdaeGNUTWxoVFkyMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtUTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Арсенал HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Арсенал HD
 https://beeline.tv/PTBuTTBZV015Y1RaMWtETzBNMk1tVm1NaGxqWjRrRE0xRW1Zek1qWW1oVFo1MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVl6Tnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Иностранные", Беларусь 24
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Иностранные", Беларусь 24
 https://beeline.tv/PTBYTzJVV08xVUdOeU16Tm1kalk1a0RNNUlUTWtOMk13RXpNaFJXTjJjek0zMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdETnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", БелРос
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", БелРос
 https://beeline.tv/PTBYTjNFak1pVkRPd0FqTWtkek01TW1Od0F6TWxGalp5SVdad01XT21oVFpoMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlqTXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Бобёр
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Бобёр
 https://beeline.tv/PTAzTXlFMk56SWpabWx6TjJNRE4zUUROakZqTjNrRFp6Y2pZMWNEWjRZRE9rMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtUTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Бокс ТВ
 https://beeline.tv/PTBYT21ObVkxQVRPd2tUWmxkalkwRTJZbU4yTXpJRE5rWldNMUFUWWlkRE01MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFqTnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Большая Азия HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Большая Азия HD
 https://beeline.tv/PTBuWTRnVFlpTldNNVltTXpjek54WUdaaEpXTTVjRE53WWpaaloyTmpGV055MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlETTF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", В гостях у сказки
 https://beeline.tv/PTBuWWpOek5tQlRNMUUyTm1SalltUlRNMUF6WWlGek14VVRPME1qWmhOelkzMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVqTnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Вопросы и ответы
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", Вопросы и ответы
 https://beeline.tv/PTBYWXdnall3VURPbGh6WWpoalp5TVRZbFZETmpGV013UW1NbVZEWmpSVFkwMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVl6TTF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", Восток ТВ
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", Восток ТВ
 https://beeline.tv/PTAzWWtGbU0wRW1ZeUVETjRNV1oxRXpNMU1qTmhabU16UXpZNFlqWndVV053MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1ETnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Время
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Время
 https://beeline.tv/PTBuTjFRV1kzRUdONFVHTzJVak1paFRNekVXWjJrRFoxY1RZNUVUTXhJVFppMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFqTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Глазами туриста HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Глазами туриста HD
 https://beeline.tv/PTBIT21SbVp4SVdOeE1HT21oRE94QWpaNEVUWXdBRE4wTTJZaVZETm1aalo0MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVETnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", Детский Мир
 https://beeline.tv/PTAzTXlrRE9pSnpZMllHWndJalowQWpZakptTTFVak1pZGpaNGNqTmhCRFozMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtqTnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Диалоги о рыбалке HD
 https://beeline.tv/PTBYTmhaR094RURNNVFETm1Sek4za3pNMGtUWTRjek55a0RPaVZHWmxCek0xMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFETnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Доктор
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Доктор
 https://beeline.tv/PTAzTXlVVFkyTVdZakZHWmlSR1o0WUdNekFqTTNBRE94RVRPM1lXWTRNR04wMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFUTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Дом кино
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", Дом кино
 https://beeline.tv/PTBIWmhaVE56Z2pONWdqWmhOalppWkRNNUVHTzJZRE0yVVRObUZETWtKVFprMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVqTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Дом кино Премиум
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", Дом кино Премиум
 https://beeline.tv/PTBYTzJVek4za2paaGxUT3hJRE1pSkRNNElXT3hNRFoxSURNaE4yWWhOR00zMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlqTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Домашние животные
 https://beeline.tv/PTAzTndFV013VW1OM1lHT2lGV055Y2paM0VtTmxCek5pUkRaekFUWmhOek4xMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUV6Tnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", Домашний HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", Домашний HD
 https://beeline.tv/PTAzTTRjRFptSldOa1ZXWWpkVE5oRmpNaEpUTjJFVFowTW1Od1VETzVValpqMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVUTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", Домашний HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", Домашний HD
 https://beeline.tv/PT1RZmtabU1sTkROMUVUT2taalk0QWpOMGtETXpFbVl5UUROelFHTndNVE5rTldQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1QVRPMHdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Дорама
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", Дорама
 https://beeline.tv/PTBYWWxCVFpoTlRObWRUTWhGV1k1Z1RaalptWmpCalp4TXpZNU1UWWhGelkyMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWd6TXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Мужские", Драйв
 https://beeline.tv/PTBuTmxaMlk0WW1ZbE5XTm1SR095QWpaNEF6TTBnek56SXpOMmtqWnhjRE4zMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUl6Tnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Еврокино
 https://beeline.tv/PTBYWnhVRFo1Y1RZeU1UTXlBalp4VUdabEoyTWlKMlk1UVdPaUZqWXdRVFlrMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU16Tnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Еда
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Еда
 https://beeline.tv/PTBYWW1GRE41SUdaa04yWTNNRE40Z1Raek1EWjRrRE95WXpZek1XTmhObVl5MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNETXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", Жар Птица
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", Жар Птица
 https://beeline.tv/PTBuWnpFV08zRUdNNWdqTWlGek0yWUdOaUZUTWpaR1prVm1ZbE56TXdFR055MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWN6TjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", ЖАРА HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", ЖАРА HD
 https://beeline.tv/PTAzTjJNak56RTJNNWtqWnpZV01pRldPakZqWWlWV1lobERPNE1qTTJNV09tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVV6Tnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Живая природа HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Живая природа HD
 https://beeline.tv/PTBuTjVnallqUkdONGN6TmpKRE80RURNeVFtWWhKV05oVkdOMFltWTNRRE4wMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFETnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", ЖиВи!
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", ЖиВи!
 https://beeline.tv/PTBYWXlZMllrRkROeUVET2tKak4xWXpOeFFXTmhaellrVnpZbFJUTmhaMllpMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVl6Tnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Загородная жизнь
 https://beeline.tv/PTBuWXljVFo0SVdNMk1XWTJBak15TVRNeVkyWWxSV01tSlRZa0ZUWnhNR1ppMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWd6Tnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Загородный
 https://beeline.tv/PTBIT3pBek41Y2paNFlUWW1Oak0yWVRNd00yWXhrek5tUldZNGtETWlaR054MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWt6Tnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", Звезда
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", Звезда
 https://beeline.tv/PTAzTTRJak5rVlRNNElHTnlVVE5sVjJZeVlXT21KV093TVdZeVFqTXdRRE5tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1ETXl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", Звезда HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", Звезда HD
 https://beeline.tv/PT1RZnlJek0wVURNek1HTTJVall6UVRNNU1qTXhFMk1pWm1ONFFXTXhnVE9qUlRQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1TVRPMHdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Звезда Плюс HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Звезда Плюс HD
 https://beeline.tv/PTAzWWxKRE9oWkRPalZtWTJNR014UUdPME1UTWlCak0xSURPelFUT2pWRE41MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlETjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Здоровое ТВ
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Здоровое ТВ
 https://beeline.tv/PTAzTjVVVE1qbERNaEoyTmtaVE5qTjJOa2RETmhsek4xVXpNM0VXWXlNVFkzMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFET3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Зоо ТВ
 https://beeline.tv/PTBuTjJZR00zQWpNNFFqTXhNVFozVXpZd2NUWnpVV09tUmpZaEJ6TWxaV09tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNETnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Информационные", Известия HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Информационные", Известия HD
 https://beeline.tv/PTBuWXlJR1prTkdaMUV6WXpjVFpqUldPbU5qTnlZVE96RWpONUlHWmhsalo1MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFETXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Иллюзион+
 https://beeline.tv/PTAzTndFR05pSnpNMlV6WTRRV1ltbERPemtUWjNRV09pRkdOeU1tTjBjRE1sMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVET3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Индийское кино
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", Индийское кино
 https://beeline.tv/PTBuTndRR1o1SVRPMEl6WTVnak40a2pNMGNqWWtaak01WVdZME1ETTRBak0wMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlET3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Индия
 https://beeline.tv/PTBYTjBZVE8wQVRaaUJqWXhrak40a2pNMGtETmlORFp4SVRaMU1tTjRVVE9sMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNUTnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", История
 https://beeline.tv/PTBYWnlJellpZERPNFV6TjVjak1qaERPMEVHTjVrVE1pWlRNamx6TWxsRE5pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVUTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Калейдоскоп ТВ
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", Калейдоскоп ТВ
 https://beeline.tv/PTBIT3lFbU14SUROalpHTmpCak00UXpNeVFUT21oellsUlRNbEpXTnlNbU40MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1ET3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", Карусель
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Детские", Карусель
 https://beeline.tv/PT1RZjNJak13VVdZeUF6TXpZRFp4Y2pZa1ptTjBjellsVnpZNVVUWW1WRE1pTldQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1UURPMHdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", КВН ТВ
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", КВН ТВ
 https://beeline.tv/PTBITjVFek4wQVRNNUVtWmhCell5VWpaa0pqWjNRVE4wSVRPa0ZqTmxOek54MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFET3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", КИНЕКО HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", КИНЕКО HD
 https://beeline.tv/PTBYWTBVRE40VXpZbEZtWm1Sek16TVdZMFFXWWtaek56UVRNMVF6WXlVVE80MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlUTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Кино ТВ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", Кино ТВ HD
 https://beeline.tv/PTBYWmxaV01pWjJNeUUyTmtGMk1rVkRNMGt6TmlKV01qWldZeE1HTjBFR053MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1qTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", КИНОКОМЕДИЯ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", КИНОКОМЕДИЯ HD
 https://beeline.tv/PTAzTW1oek5pVldPeGNUWm1SRE40WW1OeUltWnpRV05pSkRPbE5UWWxaR05rMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVET3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", КИНОМИКС HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", КИНОМИКС HD
 https://beeline.tv/PTBIWjNVV1ptRkRNeGNETzNNellpaFRONVlXWndjVE01UTJNbWxqTTFnak1sMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFqTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", КИНОПРЕМЬЕРА HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", КИНОПРЕМЬЕРА HD
 https://beeline.tv/PTBYTzVnRE13VUdPaEJUTTFRall3VVdNaGRETndVbVozQWpObGR6WTBZRFptMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVl6TXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", КИНОСВИДАНИЕ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", КИНОСВИДАНИЕ HD
 https://beeline.tv/PTAzTTJRV00wRWpONWNETzFRVE5oTjJZakpXTXljVFp4UUdaek1UTjJNak4zMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVV6TXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", КИНОСЕМЬЯ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", КИНОСЕМЬЯ HD
 https://beeline.tv/PTBuTWlKVE1qbFRNNFVXTzBJR1owUUdPelUyTjJVR000Y0RabFJETnhRak53MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVF6TXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", КИНОСЕРИЯ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", КИНОСЕРИЯ HD
 https://beeline.tv/PTBITmtWVFoxSW1OMEUyTWloek0yRXpZemtETWpSbVo0UW1OME1tWTBnVE8wMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlET3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Киноужас HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", Киноужас HD
 https://beeline.tv/PTBITzJNV015VUROM1V6TTBFek4zVUdObVpqWnhnek5oRkRabVJXWjFnVE1qMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVV6Tnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", КИНОХИТ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", КИНОХИТ HD
 https://beeline.tv/PTBYTm1WV04yRTJObWRETTRNVE4zVUdad1F6TXlrVFlsTmpNbUpqTTBFbU5pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU16TXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Китай ТВ HD
 https://beeline.tv/PTBIWmhOV09rSldPakpUT3hrak5oTkdPMlltTXhVbU5qTm1Oa2xUTTFnRFowMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNETTF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Ключ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Ключ HD
 https://beeline.tv/OU4yTnhNbU41QURaMlVtTXdrak56RWpaalZETW1aV09pUkRaelVtTW1KV005a1hacjlsYnZsR2R3bG5jalZHWjcxemN1OVdhMEIzYnRnWGR0VkdaMkZtT1VCMVRrZ1hkdFZHWjJGV0xsTlhkdFVtZHBSSGNoUldZNlFGVVBSQ1p3MW1MaVIzY3RRM2NsWldhdUZXYnZ3V2J6bG1MNU1UTnNWbWJ1RkdhajlDWnZVbWRweDJMMlJuTGw1V2FzVldaaTV5YmxSV2EyOXlMNk1IYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Комедия
 https://beeline.tv/PTAzTjNRbU1tUkdNaFZETzJBek0wTW1OMUVETXdrak4zUW1ZaFJqWTFnek13MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU16Tnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Информационные", Красная Линия
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Информационные", Красная Линия
 https://beeline.tv/PTBITTFNR05rUnpNMVF6TTRFRE5obHpZd1lEWndValppZFROMkltTjRZRE14MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUl6TTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Кто есть кто
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Кто есть кто
 https://beeline.tv/PTBYWjVrak4xVXpNa1JXWXdVV1ozRTJOaWxUWTBNek5oUlRNaUpXT2pWaloyMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNET3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Кухня ТВ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Кухня ТВ HD
 https://beeline.tv/PTBuTjBFbVp3RVdNMVFUTjRJMllsSmpZeEVETXlJek0wUWpaaE4yTTFNV08yMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVqTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Любимое Кино
 https://beeline.tv/PTAzTWpWRE4wWWpaMWN6TTNJaloyZ1ROd1l6TnpFak5qZFRaMllET2pOek55MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdET3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", Ля-минор
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", Ля-минор
 https://beeline.tv/PTBIT2pKVE14RVdNd1F6TTNNRE4ySXpOakpXTnpFV09qVmpaaU5ETmhKV08wMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNET3p3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", Лёва HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Детские", Лёва HD
 https://beeline.tv/PTBITm1ORE95VVdZMVVHTWhOR05rSkROeWdqTm1KR01saFRONFVUTzBFV094MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVV6TjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Мама
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Мама
 https://beeline.tv/PTBuWm1aMk4zRVROekVETTRRV1owa0ROd0FEWmhKbU0wZ2pNbFoyTmpWVFp3MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlUTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Матч! HD
 https://beeline.tv/PTAzTXpNRE4zUVROMEkyTm1OV01rVmpNMElXT3pJak1oSldaaGxEWjFFbVkwMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNUTXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Матч! Арена HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", Матч! Арена HD
 https://beeline.tv/PTBYT3dNR09tSldZMVlUTTVVR04xUVdPbWxUWTJZbVl4VTJNbVpEWmtOR056MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlUTTF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Матч! Боец
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", Матч! Боец
 https://beeline.tv/PTBYTm1OV08yY2pZemdETW1abVpsVkRPMWtEWjNRbVltSm1NaFJUWXprVE56MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWN6Tnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Матч! Игра HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", Матч! Игра HD
 https://beeline.tv/PTBITndZV1loUnpNNEUyTm1kak15Y2pOa1JUTTRNVE0wZ3pObFIyTmlkVE55MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFUTTF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Матч! Премьер HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", Матч! Премьер HD
 https://beeline.tv/PTAzWWxoek4wWVdPMGNUTWpKVE4zRVdOMVlUTTVnRFppRlRNbWhUWXlZV013MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdUTXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Матч! Страна
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", Матч! Страна
 https://beeline.tv/PTBYTzRNbU13QURNemdETjJrak14WW1aMU1XTWlsVFppUnpNakptWjBJV1ppMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFETXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Матч! Футбол 1 HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", Матч! Футбол 1 HD
 https://beeline.tv/PTBYWm1Cek5tQmpaeUltWjRVRFp4RWpZMVlHTmtOV013RTJOeVFET3lJVE13MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtUTXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Матч! Футбол 2 HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", Матч! Футбол 2 HD
 https://beeline.tv/PTBuTm1kallpTldad1kyWWtkellsTldZMVlET3hVVFk0Y0Raa1YyWWxOMk40MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFqTXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Матч! Футбол 3 HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", Матч! Футбол 3 HD
 https://beeline.tv/PTBIT3lBelkwUWpZNFFHT3lJak41UVRPM2tqWnpjek5qTmpNMVlHTTBnelkyMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVqTXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Информационные", Мир 24
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Информационные", Мир 24
 https://beeline.tv/PTBIT3dVMlltRm1OMFlXTjBFV01sSkRONFVqTm1KVE5tTkRNeFlXWWlkek14MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUF6Tnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", Мир HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", Мир HD
 https://beeline.tv/PT1RZndnalpqUkROd1FETXdRVE1sSkdNNFFUTXhJR05oSlRPMk1qWmtSV05tZFRQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1TURNMXdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Мир Баскетбола HD
 https://beeline.tv/PTAzWTBVVFpsTkRPaWx6TTJRMk0zTW1aeVFXTTRJell5SVRPaFpqTWlOek1pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1qTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Мир сериала
 https://beeline.tv/PTBYWTRZVFk1TURaMFVtTW1aVE95RUdObGR6TnhJbVoyQVRZMklUWmtGR05rMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVETnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Информационные", Москва 24
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Информационные", Москва 24
 https://beeline.tv/PTBIWjVRMllsUkdOd1VHWjJJak16RVdZM1lXWXpFRE55QVROek1UTWtSMk13MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVUT3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Мосфильм. Золотая коллекция
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", Мосфильм. Золотая коллекция
 https://beeline.tv/PTAzTTBNbU0zUVRNMllETzFnRFp5TVdaMVlEWnhJR04xa0RabVpET3pNMk55MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFETjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", Моторспорт ТВ
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", Моторспорт ТВ
 https://beeline.tv/PTAzTTBVbVkwa2pNeU0yTmhSek5qRnpZaGxqWmhOalp6STJNbGhUTTVZV1kzMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUl6Tnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Моя Планета
 https://beeline.tv/PTBYTTRJVE54TURPM1VXTzBJRE01WTJOMVVHT2xObVpqZERNeEFUWnhFbVo0MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlUT3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Моя стихия
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Моя стихия
 https://beeline.tv/PTBYT2xaRE16TVdaNU16WW1SbVowZ1ROMkkyTTNRR093WVRZMWtETmpKV1k0MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1UT3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", МУЖСКОЕ КИНО
 https://beeline.tv/PTBYWnpNR05qTlRPeGN6WTNVR041TWpaM1FUWnlBalkwY2pad0lHTjBNMk5qMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNUT3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Мужские", Мужской
 https://beeline.tv/PTBITmxsRFp6UUdabEptWnpZV08xSUdNaU4yTmpCalk1SW1OakJET2haV09tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtET3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", МУЗ-ТВ
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", МУЗ-ТВ
 https://beeline.tv/PT1RZjVRV00zSVdaekFqTmxSR08wZ0RNNElHT3pralpqQkRaMFlUWTJJVFkwa1RQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1SURNMXdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", Музыка Первого
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", Музыка Первого
 https://beeline.tv/PTBITXdJak4wRWpaaUZ6TjFJV08wa2paa1ZqTWhOR09pTnpOM2NUWmhCRFowMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUV6Tnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", МУЛЬТ HD
 https://beeline.tv/PTAzWXpZVFl5SVdaaE56TTJFallrZFRPNUlqWWxsalo0RVdNMllUTTFNMll3MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVUTXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", Мультиландия
 https://beeline.tv/PTAzTTFVek1sTnpZd2tUT3pRRFp3STJNMEFUT2xKV040WWpaekkyTXhVbVpoMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdUT3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", Мультимузыка
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Детские", Мультимузыка
 https://beeline.tv/PTAzTnhnRE15RTJNbEZUT2poVE40a0RPMEFETTJZR05sTm1OaFpqWWpsek4xMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWt6TXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Настоящее Страшное Телевидение
 https://beeline.tv/PTAzTndZVE0xTWpONVEyTmpWRFptbERObVYyWXlrelkxUUdabFpUWm1ObVlpMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1UTXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Наука HD
 https://beeline.tv/PTBYT3hRV00xUTJNNUVHTzBZV040SURaMkVHTTJBek0wQVRPa1J6TmlObU1oMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUl6Tnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", НАШЕ НОВОЕ КИНО HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", НАШЕ НОВОЕ КИНО HD
 https://beeline.tv/PTBITjJrVE0xWVdOakJqTTVFMk0yWVRZMll6TWxkak13UW1ZMlV6TmxGVE9tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU16Tnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", НТВ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", НТВ HD
 https://beeline.tv/PTBuTmpWRFp5TUdaaEZHT2hSV05qWkROMU1tTXpRak14RWpOelltWXpjalo0MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1qTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", НТВ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", НТВ HD
 https://beeline.tv/PT1RZnpZV00yY2pZaFZUWXpZbVoyRVdPekFqTnlNRE13TVdOellETTNZMk55a1RQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1SURPMHdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", НТВ Сериал
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", НТВ Сериал
 https://beeline.tv/PTBuTndJV081VVRZd01qTmpGbU41WUdNNU1HWjVVbU54Y3pNd01ETzFZelkzMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUV6TTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", НТВ Стиль
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", НТВ Стиль
 https://beeline.tv/PTBYWWtOV095VW1NNVlqTnhFV09tSjJOMllHTjVFek0xY2pNMUVqTTFFell6MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUF6TTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", НТВ Хит
 https://beeline.tv/PTBuTTFVbU5pSkdaaGxUTjVJR01raFRZNE0yTnhNV1lsSmpOeEVqTXdZVFp4MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtqTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", О!
 https://beeline.tv/PTBuTWlaallraFRPNVVtTmpKR1ppWldaaEZXTWxabU0wUUdNaU56TnlZV054MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVl6Tnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", О2ТВ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", О2ТВ HD
 https://beeline.tv/PTAzWTBFVE8yTW1NaU5tTTVRVE0yZ1RabEJqWmtsRFo0Y1RZeFlXTmhaak13MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVETXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Мужские", Оружие
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Мужские", Оружие
 https://beeline.tv/PTAzTXlNV1p4Z3pZeklXT21GRFpoRkRaaVZUTnhJVE9pQkROeFFUTzNrVE9qMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdUTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Открытый мир. Здоровье
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", Открытый мир. Здоровье
 https://beeline.tv/PTBIT2pKRFpsUm1aaVJUTTFFRE9oWkRNbVJXTzJRVE8xUWpZaFZXWjRJVFppMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWt6TXl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", ОТР
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", ОТР
 https://beeline.tv/PTBYWmpWVFl6UURPeUVtWndRMk1tTkRNNFlXWWtOVE1taERaeFFETmxSbU0wMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUl6TXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", ОТР
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", ОТР
 https://beeline.tv/PTAzTWhGV1lsaERaME1XTXdZalprVm1Za1JXTTJZek5pbERNM0VUWmlsak5pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidVEzY2xaV2F1RldidndXYnpsbUwwSVROc1ZtYnVGR2FqOUNadlVtZHB4MkwyUm5MbDVXYXNWV1ppNXlibFJXYTI5eUw2TUhjMFJIYQ==
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Мужские", Охота и рыбалка
 https://beeline.tv/PTBITjNNR1ppbFRNMmNET3pNRE41RVdZMk16TmhWVE55Z0ROMGNETXpBVE1sMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFUT3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Мужские", Охотник и рыболов HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Мужские", Охотник и рыболов HD
 https://beeline.tv/PTBIWmxGRE9sWkdPa0JUT3lNbVkxRUdOa1J6TnpZRE4xTXpOeU1XWmxSVFl6MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNqTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Первый Вегетарианский
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Первый Вегетарианский
 https://beeline.tv/PTAzWXdZek56RVdPaUZUT2hkVE0wWTJZNUVETWtselkzTUdabGhUTmpOR01sMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlETnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", Первый канал HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", Первый канал HD
 https://beeline.tv/PT1RZjNVV08yY1RZMGNUTTJJVFk0WVdPekVHTmtOMk41Z2pZMElXTzNrek41RVdQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1VXpNMXdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Первый космический HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Первый космический HD
 https://beeline.tv/PTBuTTVrek5tVlRZaEZqTXlZV1poZFRaaEpXT3pFVE9qUkRPNGtUTzBrek56MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1ETnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Победа
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", Победа
 https://beeline.tv/PTBuWXhrak0yUURabGRUTXhZVE5rWmpOalZ6TjRFak5tTldNM0VqTnhBalozMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlUTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", ПОЕХАЛИ!
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", ПОЕХАЛИ!
 https://beeline.tv/PTBYTjVNbVoyY1RPNGd6WW1KVE8wRTJZMFEyTTFFR04xSUdaMlFETW1CRE14MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFUTXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Приключения HD
 https://beeline.tv/PTBYTmlKRE4xY2pZbGR6TWhaR013WW1NeElHTTFJak0wUWpZeVF6WWtKR095MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVqTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Информационные", ПРО БИЗНЕС
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Информационные", ПРО БИЗНЕС
 https://beeline.tv/PTBIT3lVbVozVVRNMFVXTjRRbVkxY2pZaEZEWmlKVE5qSldaMUVEWnpJV093MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1UTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Продвижение
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", Продвижение
 https://beeline.tv/PTBYTjBFMll4RXpZelFETm1KMk54RURaM0VUWjVVek1rQnpNMGtqWnhFRE9rMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVqTjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Психология 21
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Психология 21
 https://beeline.tv/PTBITXdRalppVm1ZNE0yWWlKVE41RURaMlVqWWxKbVl3SURaMUlHT2hSRFpoMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVETXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Пятница! HD
 https://beeline.tv/PTBITWxaV05tbHpZMUVqWTRnelk1TVdNMWdETW1GbU5sUlRaa1pqTWtkVFpoMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVqTXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", Пятый канал
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", Пятый канал
 https://beeline.tv/PT1RZjVRVFpqZHpNbU4yTjJnVFlrZHpOeGdUTnlFVE54WXpZMk1UWmxsVE14TVdQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1RURNMXdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", Радость Моя
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Детские", Радость Моя
 https://beeline.tv/PTBYWjFVV00yRVdObVZqTTBRbVk1TXpNaUpUTjVFR1o1a2pNMklXTXlBallqMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlETXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Ратник HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Ратник HD
 https://beeline.tv/PTAzWTVJek55RUdaM0ltTXpNVE41WW1abVJXTzJrVE81VURabFYyWWpSVE80MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlUT3p3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Информационные", РБК HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Информационные", РБК HD
 https://beeline.tv/PTBYWWtKV1owUXpObFZETzFrVE16a2pNamRUTzFVVE15SURNekFqTm1WbU5sMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdETXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", РЕН ТВ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", РЕН ТВ HD
 https://beeline.tv/PTBIWm1KV095TW1Zd1VETWlSbU4zTXpZeFEyTnpZR1o1TUdPaUZETjBNRFp4MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFqTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", РЕН ТВ HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", РЕН ТВ HD
 https://beeline.tv/PT1RZjNrek40TTJOaWhqTWxSR1oxVTJZNGtqWjRnVE55RWpZMFlqTnhNR09pWldQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1RVRPMHdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Ретро
 https://beeline.tv/PTBYWWtGVFp5QURabGRqTjNralo0SW1aaVZHWmlaR1owa0RPd1VXWmtsRE81MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFUTXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", РОДНОЕ КИНО
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", РОДНОЕ КИНО
 https://beeline.tv/PTBYTmxCVE5qWlRZeFlHTzBFRE0wSURNNGdUWjJRell5WXpOeVltTjFRR1oxMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWN6Tnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", Россия 1 HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", Россия 1 HD
 https://beeline.tv/PT1RZjNNbVowa0Raa0pXTWpKMk5pRlRPNE1ETjVRbU00UW1abFJUTW1aek0wUVdQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1a3pOMHdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", Россия 24
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", Россия 24
 https://beeline.tv/PT1RZmpORE9rUnpNa0JETjBZR1o1VXpOMU1ETW1kek5tSm1aM0FUWnpJMk53VVRQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1UVRPMHdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", Россия К
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", Россия К
 https://beeline.tv/PT1RZmlKbVk0WVRZaEZ6WTVVRE1oSkdNaVZXTjBNR08zUURNa05tTXlJRE5taFRQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1VVRPMHdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Взрослые", Русская ночь HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Взрослые", Русская ночь HD
 https://beeline.tv/PTBuWTFFak5tSlRaM2t6WXlJVFkxWTJNMFV6TmpORE1sUm1NMVlETTVNV041MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlUTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Русский бестселлер
 https://beeline.tv/PTBYTnlFRE4xRW1Oa2hUWW1sVE1pTjJNeVFUTXdZR053UXpOa0pHTjNNMk54MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVUTXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
@@ -447,55 +447,55 @@ https://beeline.tv/PTBuTmxOV1lpTkROMll6TmlOellobFRNeVFtTnlNak01VUdONUlqWWxOR09qM
 https://beeline.tv/PTBuWjVrek15SVdPNVlUTnpjak1tTkROaE4yTm1CRE00a0ROMWNETmtSell3MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFUTXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", Рыжий
 https://beeline.tv/PTBYWTJNV041SWpZbVZtWXhBak5sTlRaM1FHTTBRVE54SW1NNUF6WTVjVFkzMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtETXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", САПФИР HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", САПФИР HD
 https://beeline.tv/PTBuTnhJak1qVmpOaUJEWnhRVE9pVlRNNVVHTndNV08wRVdPeElXTzVnRE9rMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1UTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Сарафан
 https://beeline.tv/PTBYWmhCek14WXpNeFlUWWpSVE8yTVdPbU5tWWxWVE13VVRZaWhUT2paRFowMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1UTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Совершенно секретно
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Совершенно секретно
 https://beeline.tv/PTBYTXpBRE4xSTJOM01XTnpJMk56UURabE5XTTVNR04xVVRPeFltTW1GVFpqMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVUTXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", СОЛНЦЕ
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Детские", СОЛНЦЕ
 https://beeline.tv/PTBYTjBFV1l4Y0RPelVETzFRRFpqWlROekF6TjVVR00wVUdabWxUWjVnak5pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVF6TTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", СПАС
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", СПАС
 https://beeline.tv/PT1RZmhoRE9rRkRaakZUTWxCek5qUmpNNFlETndNMk01RW1OaUZUTWtSR093QVRQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1UURNMXdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", СТС HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", СТС HD
 https://beeline.tv/PTAzTjFZek1rUjJONVVqWnlRak01WUdNelEyTmxGak5qVjJZM0lEWmhoalkzMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFUTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", СТС HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", СТС HD
 https://beeline.tv/PT1RZnhnRE8ya1ROelFUT2hORE80RURNelFHTWxKVE0yUUdPd016WWlGVE55WVdQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1a0RPMHdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", СТС Kids HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Детские", СТС Kids HD
 https://beeline.tv/PTBuWTVRVE93RVdZNGd6WWpGRE0zY2pNekVHTWtaR095VXpOaWhUWjFnalo0MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNUTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", СТС Love
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", СТС Love
 https://beeline.tv/PTBYTXpnellsSkRNa1pqTTFVRE4yQVRZMlUyTjVBak1pSkdOaVpHTzBVek0zMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1ET3p3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Суббота! HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", Суббота! HD
 https://beeline.tv/PTBuTmpWV1p5RWpOeUVEWm1SMlkyWW1ZekVqTXdjak5pbERNbFZUWXhRVE54MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtETTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", СуперГерои
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Детские", СуперГерои
 https://beeline.tv/PTBuWTRVak1pVkROMllETzFBVE9oVldObWh6TmlObU40TVdNNUltTjFZek53MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlUT3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Т24
 https://beeline.tv/PTBIWm1aak13UVRPMUVHWjJJRE94RWpONFlHTTVnRE54Z0ROMU1UWXdBVE4xMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtETnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Тайны Галактики
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Тайны Галактики
 https://beeline.tv/PTBuWjRZRE0zY1RaeUVXWjFVbU5pWnpOMk1XTjRNV1p4WW1Zd0l6TWtKV014MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVUTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Танцуй! HD
 https://beeline.tv/PTBITXpjRE4wRWpZNGd6TXpVV1ppWkdaeUF6TWhWak5oVldONE1tTXdnRE8wMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlqTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", ТВ Центр HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Федеральные", ТВ Центр HD
 https://beeline.tv/PT1RZjJZRE0yVUdPNU16TWlGVFl5QWpNMk1UT2pSR08wVTJNbFpXTWtSek0xRVdQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1SVRPMHdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", ТВ-21
 https://beeline.tv/PTBIWjNVek4zRTJZa1ZUTWhKR05sWm1ONGdUTTJVak16QVRZeU1tWWpkRE14MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdUTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", ТВ-3 HD
 https://beeline.tv/PTBuWjFVVE1sUnpNbE5XWmtWek41UVdaMFl6WTRBalprUkRaakJqTm1kVFlsMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1qTXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Театр HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Кино", Театр HD
 https://beeline.tv/PTAzTXpNRE96Y2pZMmd6WTFValkxSVROMGNEWmxGbVpsRkdObEptTWpCRFppMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlqTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", ТЕЛЕКАФЕ
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", ТЕЛЕКАФЕ
 https://beeline.tv/PTBYWjJZVE56RVRPa2hqWmlOR1poUldPd01XTmlGallrZHpOaFZqWjNRR1ozMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWd6Tnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", ТипТоп HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Детские", ТипТоп HD
 https://beeline.tv/PTBITzRFelk0WW1ZbWhET2xORE81RWpONEV6TmpKR1ppWldaMU1qTnhRMk5sMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdETTF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Федеральные", ТНТ HD
 https://beeline.tv/PTBuWW1aR05pRm1abVZtTjBRalprUkdPMUFETzFNbU40Y1RaMlFtWTBRek41MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFqTXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", ТНТ MUSIC
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", ТНТ MUSIC
 https://beeline.tv/PTBYT2xKRE9obFROalYyTjBVV09pVlROeWd6WTVnak0wRURPa0J6WTVVbVpsMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtUTXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", ТНТ4 HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", ТНТ4 HD
 https://beeline.tv/PTBIWnlFV1oza0RNNEVHT3lJMk4wVXpNd01ETjNZbVoxUUdaaFZETnhZV080MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVF6Tnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Точка отрыва
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Точка отрыва
 https://beeline.tv/PTBYTmtsRE0xUVRNamxUWWlWVE4yY2pZMlVXWXdRVFl6a1RZd01HT3lVR01rMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVl6TjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Спорт", УДАР
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Спорт", УДАР
 https://beeline.tv/PTBYT3pZR094WVRNMVlUWmhoak1sUnpZM1VtWnhFellsSlRaMUF6WXlRbU1pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlUTTF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", Уникум
 https://beeline.tv/PTBIWjBBak4zSUdNMWN6TnpjallrVmpZeU0yTTBNV08ya1RaNEkyTmpGRE4xMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdqTnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
@@ -503,43 +503,43 @@ https://beeline.tv/PTBIWjBBak4zSUdNMWN6TnpjallrVmpZeU0yTTBNV08ya1RaNEkyTmpGRE4xM
 https://beeline.tv/PTBuTjVRRE01WTJZalZHTmxKMk16STJNMllXWjRBRE5oRm1Od0UyWXdZRE9qMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1qTXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Кино", Феникс плюс Кино
 https://beeline.tv/PTAzTWtsRE4wRUdPeGtqTWxSVE9tTkdOMlkyTTNNR09tQkRaaUZHWnpFelkwMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlETnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Че!
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", Че!
 https://beeline.tv/PTBuTmlaMk4ySTJObEJETmlGR1owWUdabEpqWXpJaloyRVdOM1FUWmtWbU0yMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFET3p3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Детские", Чижик HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Детские", Чижик HD
 https://beeline.tv/PTBYTzFVRFp5WVROeFlUTjBVRFppTjJZNWtUT3pFRE4zSUdOMFl6WWxObU1pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFUTTF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", Шансон ТВ
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", Шансон ТВ
 https://beeline.tv/PTBYTzVBVFprUlRPaUZUWmpabU4ySTJZNVEyTjJRaloyVUdNaloyWXpBellpMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFETnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Ю
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", Ю
 https://beeline.tv/PTBuWXpBRFppUlRPNVlETzJJelkyUVRPMVF6TmhOMk4zRVdZMVkyTnpjVE14MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlET3p3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Ювелирочка
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Ювелирочка
 https://beeline.tv/PTBuTjJnell4VTJOMEVUWWpkek13UXpNemNqTTBVR1owRVRaMlVXWTNrVE4zMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVETXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", Fashion & LifeStyle HD
 https://beeline.tv/PTBYTTNNV01tUlRNNEVqWmpSMk0wVWpOM0VUTWlGak00a3pZNFlqWnpNVFlrMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFETnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", FashionBox HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", FashionBox HD
 https://beeline.tv/PTBuWjRNMk01Y2paeklXTXhrVE40UVdPMEVXWWhWek0zVTJONGdqWmhsek13MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdqTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", HSR 24
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", HSR 24
 https://beeline.tv/PTBYTXdJR09oQkRNMFVUWmxWbU1oVkdaeVVqTndRV001QURaaFJXTTFFRFowMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU16TTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Иностранные", SHANT Kids HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Иностранные", SHANT Kids HD
 https://beeline.tv/PTBYTWtGak0zUTJNaU5ETXdVVE1pUkRaM0VUWTNjVE8zWVdPbFpETXdnalk0MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1qTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Музыка", SHANT Music HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Музыка", SHANT Music HD
 https://beeline.tv/PTBYWTJRV1k0SW1NakpUTmxaVFlrRlRPaU5tTXdFVE9tZERNMGNUTmhaek13MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVqTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Иностранные", SHANT Premium HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Иностранные", SHANT Premium HD
 https://beeline.tv/PTAzWWtkek56SVdZMFlqTmlKV053SURONUlHWmlORE4zTVdPd1lXWWhKak00MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlETnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Иностранные", SHANT Serial HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Иностранные", SHANT Serial HD
 https://beeline.tv/PTAzTXlJMlltWkdPakJqTTBFVFp6RUdNd2dEWmpSbVl5TVdZd0lHWndnellsMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFqTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Региональные", Sochi Live HD
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Региональные", Sochi Live HD
 https://beeline.tv/PTBuWXhNVFlqbHpOd1lHTmtCVE0za2pZaUoyWXdnall3Y0RPMU1UT21KVE4xMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlqTjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Информационные", Билайн Инфо
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Информационные", Билайн Инфо
 https://beeline.tv/PTBYWXpRRE4wQWpaMmNUTXhBRE1oTjJOM0ltWjNFV1l6SWpaNVFUWWlOR016MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdETnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Радио", Вести FM
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Радио", Вести FM
 https://beeline.tv/PTBIT3lNR1p5RWpaNVFEWmpKMk1sWjJNNE16TW1Salk1RVRZM1FUWnpjall4MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlUTjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Витрина ТВ
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Витрина ТВ
 https://beeline.tv/PTBuWTVRMk53QXpNNElqWjBZR1o1VWpaMEVtTXhFVFp6SVRPaGRUTzBBek1sMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVET3p3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Познавательные", Магнат
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Познавательные", Магнат
 https://beeline.tv/PTBITW1Wak5qSjJZak4yWXhZV081TVRNMEVXTmxCak4xY3pNM1lUTWhWVE9pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVUTjF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Радио", Радио Маяк
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Радио", Радио Маяк
 https://beeline.tv/PTAzTTBNak1oUldOd2dEWjRFMk00UXpZeklUWjRnRFp4QURaalZtTjNRbU5rMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1UTjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Радио", Радио России
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Радио", Радио России
 https://beeline.tv/PTBYWWxGR08wVUdNekVHTjVVRE55VUdPMk1ETWxWVFlqWkRPelVtTjJjak4xMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFUTjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 catchup="append" catchup-days="2" group-title="Развлекательные", ТНВ Татарстан
+#EXTINF:-1 catchup="append" catchup-days="0" group-title="Развлекательные", ТНВ Татарстан
 https://beeline.tv/PTBYWndFV080WVRaMlFXT2tCRE1tWm1ZamxUTTBrRFpraGpaM016TW1Oak4xMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNUTXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
