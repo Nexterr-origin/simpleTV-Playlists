@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1,People Are Awesome
-https://jukin-peopleareawesome-2-eu.rakuten.wurl.tv/playlist.m3u8$OPT:adaptive-logic=highest
 #EXTINF:-1,2x2
 https://uma.media/video/dcab9b90a33239837c0f71682d6606da$OPT:http-referrer=https://2x2tv.ru/online/
-#EXTINF:-1,78
-https://player.mediavitrina.ru/tk78/78ru_web/player.html
 #EXTINF:-1,Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8$OPT:NO-STIMESHIFT
 #EXTINF:-1,Beach TV Grand Strand
@@ -25,14 +21,8 @@ https://www.fox5ny.com/live
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
 #EXTINF:-1,Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1,KTLA 5
-https://ktla.com/on-air/live-streaming
-#EXTINF:-1,Luxury World
-http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,münchen.tv
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1,Nano TV
-http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1,NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1,NASA TV Public
@@ -59,10 +49,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1,Матч! Страна
-https://uma.media/play/embed/54e136e9feb7544034daa03ba9aeab0d
-#EXTINF:-1,Министерство Идей
-http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1,Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24
