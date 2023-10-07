@@ -41,8 +41,6 @@ http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/rutv/16/playlist.m3u8?offset=1
 #EXTINF:-1,Russia Today HD
 http://api.peers.tv/timeshift/russia_today_hd/16/playlist.m3u8?offset=1
-#EXTINF:-1,Russian Travel Guide
-http://api.peers.tv/timeshift/rustravel/16/playlist.m3u8?offset=1
 #EXTINF:-1,Sony Sci-Fi
 http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?offset=1
 #EXTINF:-1,Sony Turbo
@@ -123,8 +121,6 @@ http://api.peers.tv/timeshift/zoo_tv/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?offset=1
 #EXTINF:-1,Индийское кино
 http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?offset=1
-#EXTINF:-1,Калейдоскоп ТВ
-http://api.peers.tv/timeshift/kaleydoskop/16/playlist.m3u8?offset=1
 #EXTINF:-1,Карусель
 http://api.peers.tv/timeshift/karusel/16/playlist.m3u8?offset=1
 #EXTINF:-1,Кино ТВ HD
@@ -257,8 +253,6 @@ http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?offset=1
 #EXTINF:-1,Салям
 http://api.peers.tv/timeshift/salyam/126/playlist.m3u8?offset=1
-#EXTINF:-1,Самотлор
-http://api.peers.tv/timeshift/samotlor/16/playlist.m3u8?offset=1
 #EXTINF:-1,Санкт-Петербург
 http://api.peers.tv/timeshift/topspb/126/playlist.m3u8?offset=1
 #EXTINF:-1,Сарафан
