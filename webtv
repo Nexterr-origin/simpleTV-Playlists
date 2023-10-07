@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,78
+https://player.mediavitrina.ru/tk78/78ru_web/player.html
 #EXTINF:-1,People Are Awesome
 https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8$OPT:adaptive-logic=highest
 #EXTINF:-1,2x2
