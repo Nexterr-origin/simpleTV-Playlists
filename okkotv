@@ -83,14 +83,10 @@ http://okkotv-live.cdnvideo.ru/channel/Mir_24_OTT_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
 #EXTINF:-1 group-title="Детские",Мультиландия HD
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
-#EXTINF:-1 group-title="Познавательные",Нано HD
-https://okkotv-nano.cdnvideo.ru/Nano_HD_poz/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница! HD
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
-#EXTINF:-1 group-title="Детские",Радость Моя
-https://okko-media.cdnvideo.ru/live/okko/radost/dash/manifest.mpd
 #EXTINF:-1 group-title="Познавательные",Ратник
 https://live-mpd-okkotv.cdnvideo.ru/ratnik/ratnik_5q.smil/manifest.mpd
 #EXTINF:-1 group-title="Федеральные",РЕН ТВ HD
@@ -121,8 +117,6 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
-#EXTINF:-1 group-title="Музыка",ТНТ MUSIC HD
-https://okko-media.cdnvideo.ru/live/okko/tntmusic/dash/manifest.mpd
 #EXTINF:-1 group-title="Кино",Феникс плюс Кино HD
 http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD.m3u8
 #EXTINF:-1 group-title="Развлекательные",Че!
