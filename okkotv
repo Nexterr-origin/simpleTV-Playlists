@@ -1,4 +1,6 @@
 #EXTM3U
+EXTINF:-1 group-title="Познавательные",Fashion TV
+https://okkotv-live.cdnvideo.ru/channel/Fashion_TV_HD.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
 https://okkotv-live.cdnvideo.ru/channel/Dorama_HD.m3u8
 #EXTINF:-1 group-title="Познавательные",RTG HD
