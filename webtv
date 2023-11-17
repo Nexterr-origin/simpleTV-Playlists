@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,Беларусь 5
+https://sport5.by/live/bt5
+#EXTINF:-1,Беларусь 5 Интернет
+https://sport5.by/live/bt5i
 #EXTINF:-1,78
 https://player.mediavitrina.ru/tk78/78ru_web/player.html
 #EXTINF:-1,People Are Awesome
