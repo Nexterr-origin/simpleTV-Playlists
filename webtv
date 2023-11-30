@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Царьград ТВ
+https://live.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/master.m3u8
 #EXTINF:-1,Беларусь 5
 https://sport5.by/live/bt5
 #EXTINF:-1,Беларусь 5 Интернет
