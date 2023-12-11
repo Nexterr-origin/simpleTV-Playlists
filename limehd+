@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U catchup="append" catchup-minutes="7200"
 #EXTINF:-1,#КтоКуда
 https://limehd.tv/2250
 #EXTINF:-1,.black
