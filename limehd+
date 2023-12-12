@@ -423,7 +423,7 @@ https://limehd.tv/18411
 https://limehd.tv/147
 #EXTINF:-1 catchup="append" catchup-minutes="0",Матур ТВ (Башкортостан)
 https://limehd.tv/249
-#EXTINF:-1 catchup="append" catchup-minutes="0",МАТЧ ПРЕМЬЕР
+#EXTINF:-1 catchup="append" catchup-minutes="7200",МАТЧ ПРЕМЬЕР
 https://limehd.tv/214
 #EXTINF:-1 catchup="append" catchup-minutes="1440",Матч!
 https://limehd.tv/57
@@ -435,11 +435,11 @@ https://limehd.tv/64
 https://limehd.tv/63
 #EXTINF:-1 catchup="append" catchup-minutes="7200",Матч! Страна
 https://limehd.tv/201
-#EXTINF:-1 catchup="append" catchup-minutes="0",Матч! Футбол 1
+#EXTINF:-1 catchup="append" catchup-minutes="7200",Матч! Футбол 1
 https://limehd.tv/656
-#EXTINF:-1 catchup="append" catchup-minutes="0",Матч! Футбол 2
+#EXTINF:-1 catchup="append" catchup-minutes="7200",Матч! Футбол 2
 https://limehd.tv/663
-#EXTINF:-1 catchup="append" catchup-minutes="0",Матч! Футбол 3
+#EXTINF:-1 catchup="append" catchup-minutes="7200",Матч! Футбол 3
 https://limehd.tv/670
 #EXTINF:-1 catchup="append" catchup-minutes="0",Миллет (Симферополь)
 https://limehd.tv/2936
@@ -505,7 +505,7 @@ https://limehd.tv/1699
 https://limehd.tv/9213
 #EXTINF:-1 catchup="append" catchup-minutes="0",НСК 49 (Новосибирск)
 https://limehd.tv/9374
-#EXTINF:-1 catchup="append" catchup-minutes="0",НТВ
+#EXTINF:-1 catchup="append" catchup-minutes="7200",НТВ
 https://limehd.tv/138
 #EXTINF:-1 catchup="append" catchup-minutes="7200",НТВ Право
 https://limehd.tv/2004
@@ -543,7 +543,7 @@ https://limehd.tv/910
 https://limehd.tv/88
 #EXTINF:-1 catchup="append" catchup-minutes="7200",Охотник и Рыболов HD
 https://limehd.tv/191
-#EXTINF:-1 catchup="append" catchup-minutes="0",Первый
+#EXTINF:-1 catchup="append" catchup-minutes="7200",Первый
 https://limehd.tv/30
 #EXTINF:-1 catchup="append" catchup-minutes="7200",Первый Вегетарианский
 https://limehd.tv/255
@@ -579,7 +579,7 @@ https://limehd.tv/183
 https://limehd.tv/92
 #EXTINF:-1 catchup="append" catchup-minutes="1440",Пятница
 https://limehd.tv/31
-#EXTINF:-1 catchup="append" catchup-minutes="0",Пятый канал
+#EXTINF:-1 catchup="append" catchup-minutes="7200",Пятый канал
 https://limehd.tv/2
 #EXTINF:-1 catchup="append" catchup-minutes="7200",Пёс и Ко
 https://limehd.tv/181
@@ -593,7 +593,7 @@ https://limehd.tv/33
 https://limehd.tv/2606
 #EXTINF:-1 catchup="append" catchup-minutes="0",Резонанс
 https://limehd.tv/23633
-#EXTINF:-1 catchup="append" catchup-minutes="0",РЕН ТВ
+#EXTINF:-1 catchup="append" catchup-minutes="7200",РЕН ТВ
 https://limehd.tv/34
 #EXTINF:-1 catchup="append" catchup-minutes="10080",Ретро
 https://limehd.tv/109
@@ -603,11 +603,11 @@ https://limehd.tv/85
 https://limehd.tv/170
 #EXTINF:-1 catchup="append" catchup-minutes="0",Родной канал
 https://limehd.tv/5397
-#EXTINF:-1 catchup="append" catchup-minutes="0",Россия 1
+#EXTINF:-1 catchup="append" catchup-minutes="7200",Россия 1
 https://limehd.tv/36
-#EXTINF:-1 catchup="append" catchup-minutes="0",Россия 24
+#EXTINF:-1 catchup="append" catchup-minutes="7200",Россия 24
 https://limehd.tv/55
-#EXTINF:-1 catchup="append" catchup-minutes="0",Россия К
+#EXTINF:-1 catchup="append" catchup-minutes="7200",Россия К
 https://limehd.tv/21
 #EXTINF:-1 catchup="append" catchup-minutes="0",Ростов-папа (Ростов-на-дону)
 https://limehd.tv/2943
@@ -675,7 +675,7 @@ https://limehd.tv/1706
 https://limehd.tv/43
 #EXTINF:-1 catchup="append" catchup-minutes="7200",СТС Kids
 https://limehd.tv/2693
-#EXTINF:-1 catchup="append" catchup-minutes="0",СТС Love
+#EXTINF:-1 catchup="append" catchup-minutes="7200",СТС Love
 https://limehd.tv/1425
 #EXTINF:-1 catchup="append" catchup-minutes="1440",Суббота!
 https://limehd.tv/218
