@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 catchup="append" catchup-minutes="7200",Советская киноклассика
+https://limehd.tv/25313
 #EXTINF:-1 catchup="append" catchup-minutes="7200",#КтоКуда
 https://limehd.tv/2250
 #EXTINF:-1 catchup="append" catchup-minutes="0",.black
