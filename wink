@@ -1,4 +1,6 @@
 #EXTM3U catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" catchup-record-source="?utcstart=${start}&utcend=${end}"
+#EXTINF:-1,viju TV1000 новелла
+https://wink.ru/OVZETzBFek5qbERPa2xUTTBVek56TURabUoyTnhFVFkya2pZbU56WXdrVE45a1hacjlsYnZsR2R3bG5jalZHWjcxemN1OVdhMEIzYnRnWGR0VkdaMkZtT1VCMVRrZ1hkdFZHWjJGV0xsTlhkdFVtZHBSSGNoUldZNlFGVVBSQ1p3MW1MME5YWm1sbWJoMTJMRWhVUU14VVJXOWtUd0FETXhZRlZWcFVTVzlGU0Q5U2J5UldidlFYWnU1Q2VwNVdabjVtTHVSMll1Y1RNMlVqTXo5eUw2TUhjMFJIYQ
 #EXTINF:-1,Мы HD
 https://wink.ru/OVpXWmxWV013Y2pZamRETXhNbVoyUXpOaVJ6TjNRVE9tWldObVpUTW1aek45a1hacjlsYnZsR2R3bG5jalZHWjcxemN1OVdhMEIzYnRnWGR0VkdaMkZtT1VCMVRrZ1hkdFZHWjJGV0xsTlhkdFVtZHBSSGNoUldZNlFGVVBSQ1p3MW1MME5YWm1sbWJoMTJMRWhVV045RlNEOVNieVJXYnZRWFp1NUNlcDVXWm41bUx1UjJZdWNUTTJVak16OXlMNk1IYzBSSGE
 #EXTINF:-1,Новый Игровой Канал
