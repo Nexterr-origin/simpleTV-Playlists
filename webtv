@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Superyacht TV
+https://sy.wns.live/hls/stream.m3u8
 #EXTINF:-1,78
 https://player.mediavitrina.ru/tk78/78ru_web/player.html
 #EXTINF:-1,Atlanta Channel
