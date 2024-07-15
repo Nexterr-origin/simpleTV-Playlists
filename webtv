@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Царьград ТВ
-https://live.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/master.m3u8
-#EXTINF:-1,Беларусь 5
-https://sport5.by/live/bt5
-#EXTINF:-1,Беларусь 5 Интернет
-https://sport5.by/live/bt5i
 #EXTINF:-1,78
 https://player.mediavitrina.ru/tk78/78ru_web/player.html
-#EXTINF:-1,People Are Awesome
-https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8$OPT:adaptive-logic=highest
-#EXTINF:-1,2x2
-https://uma.media/video/dcab9b90a33239837c0f71682d6606da$OPT:http-referrer=https://2x2tv.ru/online/
 #EXTINF:-1,Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8$OPT:NO-STIMESHIFT
 #EXTINF:-1,Beach TV Grand Strand
@@ -43,14 +33,14 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
 http://rtmp.one.by:1300
 #EXTINF:-1,OneRUS HD
 http://rtmp.one.by:2300
+#EXTINF:-1,People Are Awesome
+https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8$OPT:adaptive-logic=highest
 #EXTINF:-1,Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,Red Bull HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1,RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,Superyacht TV
-https://www.superyacht.tv/en/superyacht-tv-en
 #EXTINF:-1,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1,Известия
@@ -63,39 +53,19 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,Новый мир
-https://stream.skyvision.com.ua/nw/nw_576p/playlist.m3u8
-#EXTINF:-1,НТВ
-https://www.ntv.ru/air
-#EXTINF:-1,НТВ Право
-https://www.ntv.ru/air/ntvlaw
-#EXTINF:-1,НТВ Сериал
-https://www.ntv.ru/air/ntvseries
-#EXTINF:-1,НТВ Стиль
-https://www.ntv.ru/air/ntvstyle
-#EXTINF:-1,НТВ Хит
-https://www.ntv.ru/air/ntvhit
 #EXTINF:-1,Первый канал HD
 https://www.1tv.ru/live
 #EXTINF:-1,Победа
 https://pobeda.tv/live
-#EXTINF:-1,Пятница
-https://uma.media/play/embed/636ffab27c5a4a9cd5f9a40b2e70ea88
 #EXTINF:-1,Ратник ТВ
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1,РБК
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1,РЖД ТВ
 https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1,СИЛА
-https://ok.ru/video/958144716536
 #EXTINF:-1,Соловьёв Live
 https://smotrim.ru/channel/292
 #EXTINF:-1,Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1,ТНТ
-https://uma.media/video/4e4e37727e07a7124cd7b29f2975e295/
-#EXTINF:-1,ТНТ4
-https://uma.media/video/b0200b6f7a08fb0aad4e1289f491d1ea/
 #EXTINF:-1,Эхо TV
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
